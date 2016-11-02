@@ -51,6 +51,7 @@
         </li>
 	{% endif %}
 
+
 	{% comment %} Show extras for lessons or if this is the main workshop-template repo (where they contain documentation). {% endcomment %}
 	{% if site.kind == "lesson" or site.github.repository_name == "workshop-template" %}
         <li class="dropdown">
@@ -65,7 +66,13 @@
 
 	{% comment %} Always show license. {% endcomment %}
         <li><a href="{{ page.root }}/license/">Agenda</a></li>
+
+    {% comment %} Temporary add {% endcomment %}
+    <li><a href="{{ page.root }}/customization/">Lightning Talks</a></li>
+
       </ul>
+
+
       <form class="navbar-form navbar-right" role="search" id="search" onsubmit="google_search(); return false;">
         <div class="form-group">
           <input type="text" id="google-search" placeholder="Search..." aria-label="Google site search">

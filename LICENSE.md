@@ -4,6 +4,21 @@ title: "Agenda"
 permalink: /license/
 ---
 
+# Pre-Work:
+
+All PI Teams are required to provide the following to Anthony prior to the workshop:
+
+1. List of core capabilities & skills of team members:
+  - enables people to discover who has answers to questions as they arise
+  - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#)
+2. Science Traceability Matrix (STM): science questions, data needs and data assets:
+  - each PI team already has well-defined science objectives. We want to map these out, combine, and assess overall HiMAT science goals. We will categorize data needs and assets by science objective.
+3. Top 3 papers most closely related to your team's efforts:
+   - in addition to helping build a shared bibliography, this will facilitate knowledge sharing across the team
+4. (optional) Data files related to any analysis completed on the initial target region (Indus Basin)
+   
+<hr>
+<hr>
 
 # Day 1:
 
@@ -24,11 +39,11 @@ permalink: /license/
 
 ### Connecting to other participants :: 20 mins 
 
-* build connections across the team
+* [build connections](http://www.liberatingstructures.com/2-impromptu-networking/) across the team
 
 ### Where are we starting? :: 45 mins
 
-* Interview & presentation by Anthony (and Tom?)
+* [Interview](http://www.liberatingstructures.com/5-appreciative-interviews-ai/) & presentation by Anthony (and Tom?)
   * Explore leadership approach and mechanisms for the coordination effort 
   * What _must_ we achieve? What are the metrics of success for HiMAT?
   * Explore what we mean when discussing integration, collaboration and autonomy
@@ -38,7 +53,7 @@ permalink: /license/
 
 ### Who we are and what we are doing :: 4.5 hours
 
-* 4 Lightning talks :: 10 mins/talk
+* 4 <a href="{{ page.root }}/customization/">Lightning talks</a> :: 10 mins/talk
 * Feedback cards and collaboration notes after each :: 5 mins/talk
 * Spotlight discussion :: 20 min
    * Foster understanding about an area of the science or data challenge by hearing from a small group of people with direct experience discuss the topic between them 
@@ -72,7 +87,7 @@ permalink: /license/
   * Present ideas to full group
   * Evaluate the range of ideas on desirability and feasibility (based on the complexity of integrating your own project into the more integrated idea)
 
-### Collaboration principles & failure states :: 60 mins
+### Collaboration principles and failure states :: 60 mins
   * Identify the activities, behaviours, anything that could derail our efforts together. What must we avoid at all costs moving forward?
   * What are the agreements about using other people’s data and model outputs?
 
@@ -107,7 +122,7 @@ permalink: /license/
 ### Connecting :: 15 mins
   * Continue making loose connections across project teams
 
-### HiMAT SMT Check-in and review :: 60 mins
+### HiMAT STM Check-in and review :: 60 mins
   * What still needs to be completed?
   * What updates can we make it this given the territory we’ve covered so far?
 
