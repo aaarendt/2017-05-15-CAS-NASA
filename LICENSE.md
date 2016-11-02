@@ -10,11 +10,11 @@ All PI Teams are required to provide the following to Anthony prior to the works
 
 1. List of core capabilities & skills of team members:
   - enables people to discover who has answers to questions as they arise
-  - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#)
+  - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#) by discipline, skill rather than just institution
 2. <a href="{{ page.root }}/design/">Science Traceability Matrix (STM)</a>: science questions, data needs and data assets:
-  - each PI team is to map out their own science objectives, data needs and assets. We will then combine and use to assess overall HiMAT science goals. 
+  - each PI team is to map out their own STM. We will then combine and use to assess overall HiMAT science goals. 
 3. Top 3 papers most closely related to your team's efforts:
-   - helps us build a shared bibliography
+   - helps us build a shared [bibliography](https://github.com/aaarendt/HiMAT/blob/master/Bibliography/HiMAT.pdf)
    - facilitate knowledge sharing across the team
 4. (optional) Data files related to any analysis completed on the initial target region (Indus Basin)
    
@@ -31,12 +31,13 @@ All PI Teams are required to provide the following to Anthony prior to the works
 
 ### Agenda, goals & objectives for workshop :: 15 mins
 
-* Anthony and design team
+* Anthony and design team:
    * Purpose of the workshop
-   * Convey structure and flow of the agenda - what to expect 
-   * What we hope and believe the workshop will make possible 
+   * Convey structure and flow of the agenda 
+   * What we believe the workshop will make possible 
    * What we want to leave with 
    * What we expect from everyone in order to make the workshop interactions successful
+   * How we will link our activites to advancing the science in the region
 
 ### Connecting to other participants :: 20 mins 
 
@@ -50,7 +51,9 @@ All PI Teams are required to provide the following to Anthony prior to the works
   * Explore what we mean when discussing integration, collaboration and autonomy
   * Discuss strategy questions and conceptual maps of the overall effort 
   * What is GMELT?
+  * What is the leadership's view of most important science objectives? 
   * Present Science Traceability Matrix draft for HiMAT
+  * (optional) How does our upcoming engagement with China impact HiMAT activities and planning?
 
 ### Who we are and what we are doing :: 4.5 hours
 
@@ -83,10 +86,10 @@ All PI Teams are required to provide the following to Anthony prior to the works
 
 ### Integration ideation :: 90 mins
   * Given the HMA science questions before us, what are your boldest, most ambitious ideas for integrating our scientific activities? This might look like:
-    * a coordinated improvement of mesoscale climate or hydrological simulation models
+    * a coordinated improvement of key datasets fundamental to all investigations in the region
     * a toolkit to inform regional decision making
     * a calibration/validation/reanalysis framework for integrating data and models
-  * Presentation of two potential starting points:
+  * (optional, for discussion) Presentation of two potential starting points, building on existing integration frameworks:
      * NASA Land Information System (Sujay)
      * GRACE forward modeling (Anthony)
   * [1-2-4-All](http://www.liberatingstructures.com/1-1-2-4-all/) to generate ideas & determine viability
@@ -94,19 +97,18 @@ All PI Teams are required to provide the following to Anthony prior to the works
   * Evaluate the range of ideas on desirability and feasibility (based on the complexity of integrating your own project into the more integrated idea)
 
 ### Collaboration principles and failure states :: 60 mins
-  * Identify the activities, behaviours, anything that could derail our efforts together. What must we avoid at all costs moving forward?
+  * Identify the activities, behaviors, anything that could derail our efforts together. What must we avoid at all costs moving forward?
   * What are the agreements about using other people’s data and model outputs?
 
 ### Assorted topics :: 4.5 hours
   * Full group discussions and deliberation
-     * coordinating our engagement with ICIMOD and international partners (Dalia)
-     * NASA ADAPT technology demonstration and sign-up (Batu)
-    * Accessing DigitalGlobe imagery (Shean)
+     * coordinating our engagement with ICIMOD and international partners (Dalia, Nancy)
+     * NASA ADAPT technology demonstration and sign-up (Batu, Goddard IT)
+     * Accessing DigitalGlobe imagery (Shean)
 * Small group discussions & breakouts with reporting template
-   * Model atlas
-   * Data atlas
-   * Assigned working groups
-   * Open space with reporting template
+   * <a href="{{ page.root }}/faq/">Model atlas</a>
+   * <a href="{{ page.root }}/faq/">Data atlas</a>
+   * Exploration of datasets / open hacking related to initial simulations for Indus Basin 
 * Self-organized sessions around lingering topics & needs
 * Report out and debrief of small group & open space discussions
 * What happened and what did we learn? So what, why is this important? Now what? What are our next steps?
