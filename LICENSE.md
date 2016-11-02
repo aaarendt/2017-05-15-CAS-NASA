@@ -11,10 +11,11 @@ All PI Teams are required to provide the following to Anthony prior to the works
 1. List of core capabilities & skills of team members:
   - enables people to discover who has answers to questions as they arise
   - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#)
-2. Science Traceability Matrix (STM): science questions, data needs and data assets:
-  - each PI team already has well-defined science objectives. We want to map these out, combine, and assess overall HiMAT science goals. We will categorize data needs and assets by science objective.
+2. <a href="{{ page.root }}/design/">Science Traceability Matrix (STM)</a>: science questions, data needs and data assets:
+  - each PI team is to map out their own science objectives, data needs and assets. We will then combine and use to assess overall HiMAT science goals. 
 3. Top 3 papers most closely related to your team's efforts:
-   - in addition to helping build a shared bibliography, this will facilitate knowledge sharing across the team
+   - helps us build a shared bibliography
+   - facilitate knowledge sharing across the team
 4. (optional) Data files related to any analysis completed on the initial target region (Indus Basin)
    
 <hr>
@@ -81,8 +82,13 @@ All PI Teams are required to provide the following to Anthony prior to the works
    * Agenda review & goals for day
 
 ### Integration ideation :: 90 mins
-  * Given the HMA science questions before us, what are your boldest, most ambitious ideas for integrating our scientific activities? This might look like a tangible and practically useful toolkit to inform regional decision making; a calibration/validation/reanalysis framework for integrating data and models; a coordinated improvement of mesoscale climate or hydrological simulation models. 
-  * Presentation of two potential starting points: Sujay’s LIS; Anthony’s GRACE forward modeling
+  * Given the HMA science questions before us, what are your boldest, most ambitious ideas for integrating our scientific activities? This might look like:
+    * a coordinated improvement of mesoscale climate or hydrological simulation models
+    * a toolkit to inform regional decision making
+    * a calibration/validation/reanalysis framework for integrating data and models
+  * Presentation of two potential starting points:
+     * NASA Land Information System (Sujay)
+     * GRACE forward modeling (Anthony)
   * [1-2-4-All](http://www.liberatingstructures.com/1-1-2-4-all/) to generate ideas & determine viability
   * Present ideas to full group
   * Evaluate the range of ideas on desirability and feasibility (based on the complexity of integrating your own project into the more integrated idea)
