@@ -107,7 +107,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
      * Accessing DigitalGlobe imagery (Shean)
 * Small group discussions & breakouts with reporting template
    * <a href="{{ page.root }}/faq/">Model atlas</a>
-   * <a href="{{ page.root }}/faq/">Data atlas</a>
+   * <a href="{{ page.root }}/about/">Data atlas</a>
    * Exploration of datasets / open hacking related to initial simulations for Indus Basin 
 * Self-organized sessions around lingering topics & needs
 * Report out and debrief of small group & open space discussions
