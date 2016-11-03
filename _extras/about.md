@@ -4,7 +4,7 @@ title: Data Atlas
 permalink: /about/
 ---
 
-# Data Atlas
+_More detail to come. Bruce has a template already and will lead this effort. Anthony's team has started making maps of available data and we can at least post static maps, possibly a simple geoserver dynamic map._
 
 ### Purpose:
 
@@ -14,6 +14,3 @@ permalink: /about/
 ### Contents
 
 * a list of all available in situ observations in the region: what is available, how do we access it, provide as much metadata as possible (accuracy, usage constraints, etc). 
-
-More to come here...Bruce has a template already and will lead. Anthony's team has started making maps of available data.
-

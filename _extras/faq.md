@@ -4,7 +4,7 @@ title: Model Atlas
 permalink: /faq/
 ---
 
-## Model Atlas
+_More detail to come here. Sarah has a draft spreadsheet already started. We will begin asking specific people to fill in their model details to get this completed by the meeting._
 
 ### Purpose: 
 
@@ -16,7 +16,3 @@ permalink: /faq/
 ### Contents:
 
 * initial conditions, boundary conditions, parameters, driving datasets, variables that can be generated for output, range of possible spatial and temporal resolutions, compute times, compute needs (if relevant), algorithmic development in progress, known algorithmic deficiencies, target users
-
-To be continued. Sarah has a draft spreadsheet already started.
-
-
