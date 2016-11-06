@@ -21,6 +21,57 @@ All PI Teams are required to provide the following to Anthony prior to the works
 <hr>
 <hr>
 
+# Day 1: Tuesday Nov. 29
+| Time | Topic / Activity |
+|:-------------:|:-------------:|
+| 9:00 - 9:20 am | Welcome and introductions (Tom, Anthony, Goddard official) 
+| 9:20 - 9:40 am | Connecting to other participants |
+| 9:45 - 10:30 am | Where are we starting? (Anthony and Tom) | 
+| 10:30 - 10:45 am | Coffee break |
+| 10:45 - 11:45 am | Lightning talks (Round 1) |
+|11:45 am - 12:15 pm | discussion and sensemaking |
+| 12:15 - 1:15 pm | Lunch |
+| 1:15 - 2:15 pm | Lightning talks (Round 2) |
+| 2:15 pm - 2:45 pm | discussion and sensemaking |
+| 2:45 - 3:00 pm | Coffee break |
+| 3:00 - 4:00 pm | Ligthtning talks (Round 3) |
+| 4:00 - 4:30 pm | discussion and sensemaking |
+| 4:30 - 4:45 pm | Debrief and closing (Anthony) |
+| 6:00 - 8:00 pm | Group dinner (?) |
+
+
+# Day 2: Wednesday Nov. 30
+| Time | Topic / Activity |
+|:-------------:|:-------------:|
+| 9:00 - 9:20 am | Connecting and welcoming |
+| 9:20 - 10:50 am | Integration ideation | 
+| 10:50 - 11:00 am | Coffee |
+| 11:00 am - 12:00 pm | Collaboration principles and failure states |
+| 12:00 - 1:00 pm | Lunch |
+| 1:00 - 1:30 pm | International coordination (Dalia, Nancy) |
+| 1:30 - 2:00 pm | Cloud technology demonstration (Batu, Goddard IT, Anthony) |
+| 2:00 - 2:20 pm | Digital globe imagery (David) |
+| 2:20 - 2:30 pm | Coffee |
+| 2:30 - 5:00 pm | Small group breakouts (model and data atlas, data hacking) |
+| 5:00 - 5:15 pm | Closing |
+
+
+# Day 3: Thursday Dec. 1
+| Time | Topic / Activity |
+|:-------------:|:-------------:|
+| 9:00 - 9:15 am | Introduction and priorities |
+| 9:15 - 9:30 am | Connecting |
+| 9:30 - 10:30 am | HiMAT STM check-in and review |
+| 10:30 - 10:45 am | Coffee |
+| 10:45 - 11:30 am | Assorted topics |
+| 11:30 am - 12:00 pm | action planning |
+| 12:00 - 1:00 pm | Lunch |
+| 1:00 - 3:00 pm | Goddard tour |
+
+<hr> <hr>
+
+# Detailed Schedule:
+
 # Day 1:
 
 ### Welcome & Introductions :: 20 mins
@@ -134,12 +185,12 @@ All PI Teams are required to provide the following to Anthony prior to the works
   * What still needs to be completed?
   * What updates can we make it this given the territory we’ve covered so far?
 
-### Assorted topics options :: 90 mins
+### Assorted topics options :: 45 mins
   * "Now what?" topics from Day 2 
   * Open space topics
   * Work group coordination & action planning
 
-### Action planning & tidying up :: 40 mins
+### Action planning & tidying up :: 30 mins
   * Use graphic templates if necessary
   * Preparing to lift-off where the workshop is leaving off
   * Provide individual teams with time to coordinate their own independent actions and solidify collaboration opportunities
