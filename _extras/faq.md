@@ -16,3 +16,8 @@ _More detail to come here. Sarah has a draft spreadsheet already started. We wil
 ### Contents:
 
 * initial conditions, boundary conditions, parameters, driving datasets, variables that can be generated for output, range of possible spatial and temporal resolutions, compute times, compute needs (if relevant), algorithmic development in progress, known algorithmic deficiencies, target users
+
+
+### Draft atlas:
+
+* you can view an initial atlas layout [here](https://github.com/aaarendt/HiMAT/tree/master/Models)
