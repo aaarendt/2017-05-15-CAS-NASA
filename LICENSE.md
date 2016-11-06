@@ -22,9 +22,10 @@ All PI Teams are required to provide the following to Anthony prior to the works
 <hr>
 
 # Day 1: Tuesday Nov. 29
+
 | Time | Topic / Activity |
-|:-------------:|:-------------:|
-| 9:00 - 9:20 am | Welcome and introductions (Tom, Anthony, Goddard official) 
+|------------:|:-------------|
+| 9:00 - 9:20 am | Welcome and introductions (Tom, Anthony, Goddard official) |
 | 9:20 - 9:40 am | Connecting to other participants |
 | 9:45 - 10:30 am | Where are we starting? (Anthony and Tom) | 
 | 10:30 - 10:45 am | Coffee break |
@@ -39,10 +40,10 @@ All PI Teams are required to provide the following to Anthony prior to the works
 | 4:30 - 4:45 pm | Debrief and closing (Anthony) |
 | 6:00 - 8:00 pm | Group dinner (?) |
 
-
 # Day 2: Wednesday Nov. 30
+
 | Time | Topic / Activity |
-|:-------------:|:-------------:|
+|-------------:|:-------------|
 | 9:00 - 9:20 am | Connecting and welcoming |
 | 9:20 - 10:50 am | Integration ideation | 
 | 10:50 - 11:00 am | Coffee |
@@ -57,8 +58,9 @@ All PI Teams are required to provide the following to Anthony prior to the works
 
 
 # Day 3: Thursday Dec. 1
+
 | Time | Topic / Activity |
-|:-------------:|:-------------:|
+|-------------:|:-------------|
 | 9:00 - 9:15 am | Introduction and priorities |
 | 9:15 - 9:30 am | Connecting |
 | 9:30 - 10:30 am | HiMAT STM check-in and review |
