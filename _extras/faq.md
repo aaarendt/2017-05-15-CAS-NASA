@@ -4,8 +4,6 @@ title: Model Atlas
 permalink: /faq/
 ---
 
-_More detail to come here. Sarah has a draft spreadsheet already started. We will begin asking specific people to fill in their model details to get this completed by the meeting._
-
 ### Purpose: 
 
 * to compile a comprehensive list of all models that will be employed in the HiMAT investigations
