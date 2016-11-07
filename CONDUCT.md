@@ -38,11 +38,11 @@ permalink: /conduct/
 | 30 | [Yun Qian](mailto:yun.qian@pnnl.gov) | Pacific Northwest National Laboratory | N |
 | 31 | [Fisher Qua](mailto:fisher@back-loop.com) | back-loop |  |
 | 32 | [Bruce Raup](mailto:braup@nsidc.org) | National Snow and Ice Data Center |  |
-| 33 | [Shane Reese](mailto:reese@stat.byu.edu) | Brigham Young University |  |
+| 33 | [Shane Reese](mailto:reese@stat.byu.edu) | Brigham Young University | Y |
 | 34 | [Sasha Richey](mailto:sasha.richey@wsu.edu) | Washington State University |  |
 | 35 | [Summer Rupper](mailto:summer.rupper@geog.utah.edu) | University of Utah |  |
 | 36 | [Nancy Searby](mailto:nancy.d.searby@nasa.gov) | NASA HQ | N |
-| 37 | [David Shean](mailto:dshean@uw.edu) | University of Washington |  |
+| 37 | [David Shean](mailto:dshean@uw.edu) | University of Washington | Y |
 | 38 | [Thomas Stanley](mailto:thomas.a.stanley@nasa.gov) | NASA Goddard Space Flight Center | N |
 | 39 | [Jim Steenburgh](mailto:jim.steenburgh@utah.edu) | University of Utah |  |
 | 40 | [Nicholas Steiner](mailto:nsteiner@ccny.cuny.edu) | City University of New York |  |
