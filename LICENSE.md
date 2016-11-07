@@ -142,9 +142,6 @@ All PI Teams are required to provide the following to Anthony prior to the works
     * a coordinated improvement of key datasets fundamental to all investigations in the region
     * a toolkit to inform regional decision making
     * a calibration/validation/reanalysis framework for integrating data and models
-  * (optional, for discussion) Presentation of two potential starting points, building on existing integration frameworks:
-     * NASA Land Information System (Sujay)
-     * GRACE forward modeling (Anthony)
   * [1-2-4-All](http://www.liberatingstructures.com/1-1-2-4-all/) to generate ideas & determine viability
   * Present ideas to full group
   * Evaluate the range of ideas on desirability and feasibility (based on the complexity of integrating your own project into the more integrated idea)
