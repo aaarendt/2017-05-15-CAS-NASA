@@ -8,7 +8,7 @@ permalink: /conduct/
 |:--|-----:|:----------|:---------------:|
 | 1 | [Jawairia Ahmad](mailto:jahmad@umd.edu) | University of Maryland |  |
 | 2 | [Anthony Arendt](mailto:arendta@uw.edu) | University of Washington | Y |
-| 3 | [David Bekaert](mailto:david.bekaert@jpl.nasa.gov) | NASA Jet Propulsion Laboratory |  |
+| 3 | [David Bekaert](mailto:david.bekaert@jpl.nasa.gov) | NASA Jet Propulsion Laboratory | Y |
 | 4 | [Kimberly Casey](mailto:Kimberly.a.casey@nasa.gov) | NASA Goddard Space Flight Center |  |
 | 5 | [William Christensen](mailto:william@stat.byu.edu) | Brigham Young University |  |
 | 6 | [Rob Fatland](mailto:rob5@uw.edu) | University of Washington |  |
