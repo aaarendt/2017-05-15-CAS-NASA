@@ -4,7 +4,7 @@ title: Data Atlas
 permalink: /about/
 ---
 
-_More detail to come. Bruce has a template already and will lead this effort. Anthony's team has started making maps of available data and we can at least post static maps, possibly a simple geoserver dynamic map._
+_More detail to come. We will be posting a link to a map web server showing an overview of available data, as well as a table with metadata._
 
 ### Purpose:
 
