@@ -10,7 +10,7 @@ permalink: /conduct/
 | 2 | [Anthony Arendt](mailto:arendta@uw.edu) | University of Washington | Y |
 | 3 | [David Bekaert](mailto:david.bekaert@jpl.nasa.gov) | NASA Jet Propulsion Laboratory | Y |
 | 4 | [Kimberly Casey](mailto:Kimberly.a.casey@nasa.gov) | NASA Goddard Space Flight Center |  |
-| 5 | [William Christensen](mailto:william@stat.byu.edu) | Brigham Young University |  |
+| 5 | [William Christensen](mailto:william@stat.byu.edu) | Brigham Young University | Y |
 | 6 | [Rob Fatland](mailto:rob5@uw.edu) | University of Washington |  |
 | 7 | [Bart Forman](mailto:baforman@umd.edu) | University of Maryland |  |
 | 8 | [Paul Ginoux](mailto:paul.ginoux@noaa.gov) | NOAA | N |
