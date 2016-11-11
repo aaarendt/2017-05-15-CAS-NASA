@@ -4,6 +4,8 @@ title: "Participant List"
 permalink: /conduct/
 ---
 
+#### NOTE: due to badging requirements for accessing NASA Goddard Space Flight Center, we can no longer add people to our meeting list. Please do not invite additional attendees.
+
 |   | Name | Institute | Attending Tour? |
 |:--|-----:|:----------|:---------------:|
 | 1 | [Jawairia Ahmad](mailto:jahmad@umd.edu) | University of Maryland |  |
