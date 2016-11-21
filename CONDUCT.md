@@ -55,3 +55,5 @@ permalink: /conduct/
 | 45 | [Si-Chee Tsay](mailto:si-chee.tsay@nasa.gov) | NASA Goddard Space Flight Center | N | Y |
 | 46 | [Isabella Velicogna](mailto:isabella@uci.edu) | NASA Jet Propulsion Laboratory | N | Y |
 | 47 | [Thomas Wagner](mailto:thomas.wagner@nasa.gov) | NASA HQ | N | Y |
+
+ <script src="http://bibbase.org/show?bib=https://github.com/aaarendt/HiMAT/blob/master/Bibliography/HiMAT.bib&jsonp=1"></script> 
