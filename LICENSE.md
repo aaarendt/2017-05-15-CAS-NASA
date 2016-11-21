@@ -8,14 +8,14 @@ permalink: /license/
 
 All PI Teams are required to provide the following to Anthony prior to the workshop:
 
-1. List of core capabilities & skills of team members:
-  - enables people to discover who has answers to questions as they arise
-  - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#) by discipline, skill rather than just institution
-2. <a href="{{ page.root }}/design/">Science Traceability Matrix (STM)</a>: science questions, data needs and data assets:
-  - each PI team is to map out their own STM. We will then combine and use to assess overall HiMAT science goals. 
-3. Top 3 papers most closely related to your team's efforts:
+1. Top 3 papers most closely related to your team's efforts:
    - helps us build a shared [bibliography](https://github.com/aaarendt/HiMAT/blob/master/Bibliography/HiMAT.pdf)
    - facilitate knowledge sharing across the team
+2. <a href="{{ page.root }}/design/">Science Traceability Matrix (STM)</a>: science questions, data needs and data assets:
+  - each PI team is to map out their own STM. We will then combine and use to assess overall HiMAT science goals. 
+3. List of core capabilities & skills of team members:
+  - enables people to discover who has answers to questions as they arise
+  - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#) by discipline, skill rather than just institution
 4. (optional) Data files related to any analysis completed on the initial target region (Indus Basin)
    
 <hr>

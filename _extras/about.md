@@ -4,8 +4,6 @@ title: Data Atlas
 permalink: /about/
 ---
 
-_More detail to come. We will be posting a link to a map web server showing an overview of available data, as well as a table with metadata._
-
 ### Purpose:
 
 * the models we run are meaningless unless we calibrate them with field data. Access to observations is a core element of our ability to run hydrological models in the region.
