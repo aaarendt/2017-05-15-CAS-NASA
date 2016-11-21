@@ -7,7 +7,7 @@ permalink: /conduct/
 #### NOTE: due to badging requirements for accessing NASA Goddard Space Flight Center, we can no longer add people to our meeting list. Please do not invite additional attendees.
 
 |   | Name | Institute | Attending Tour? | Attending Tuesday Dinner? | 
-|:--|-----:|:----------|:---------------:|
+|:--|-----:|:----------|:---------------:|:-----------:|
 | 1 | [Jawairia Ahmad](mailto:jahmad@umd.edu) | University of Maryland | N | Y |
 | 2 | [Anthony Arendt](mailto:arendta@uw.edu) | University of Washington | Y | Y |
 | 3 | [David Bekaert](mailto:david.bekaert@jpl.nasa.gov) | NASA Jet Propulsion Laboratory | Y | Y |
