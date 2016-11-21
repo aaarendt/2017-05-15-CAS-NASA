@@ -18,7 +18,7 @@ permalink: /conduct/
 | 8 | [Debjani Ghatak](mailto:dghatak1@jhu.edu) | Johns Hopkins University | N | N |
 | 9 | [Paul Ginoux](mailto:paul.ginoux@noaa.gov) | NOAA | N | Y |
 | 10 | [Charley Haley](mailto:charley@back-loop.com) | back-loop | N | Y |
-| 11 | [John Hayes](mailto:) | Argonne National Laboratory | N | Y |
+| 11 | [John Hayse](mailto:hayse@anl.gov) | Argonne National Laboratory | N | Y |
 | 12 | [Paul Houser](mailto:phouser@gmu.edu) | George Mason University | Y | Y |
 | 13 | [Eric Johnson](mailto:ericscottjohnson1@gmail.com) | University of Utah | N | Y |
 | 14 | [Sarah Kapnick](mailto:sarah.kapnick@noaa.gov) | NOAA | Y | Y |
