@@ -9,7 +9,7 @@ permalink: /license/
 All PI Teams are required to provide the following to Anthony prior to the workshop:
 
 1. Top 3 papers most closely related to your team's efforts:
-   - helps us build a shared [bibliography](https://github.com/aaarendt/HiMAT/blob/master/Bibliography/HiMAT.pdf)
+   - helps us build a shared [bibliography](http://aaarendt.github.io/himat/2016/11/22/meeting.html#)
    - facilitate knowledge sharing across the team
 2. <a href="{{ page.root }}/design/">Science Traceability Matrix (STM)</a>: science questions, data needs and data assets:
   - each PI team is to map out their own STM. We will then combine and use to assess overall HiMAT science goals. 
