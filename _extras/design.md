@@ -33,6 +33,17 @@ To develop a scientific understanding of Earth's system and its response to natu
 
 <br>
 <br>
+### PI Dalia Kirschbaum
+Multi-sensor impact analysis of cascading hazards and transportation corridors in Nepal
+
+| Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
+|:-------------|:-------------|:-------------|:-------------|:-------------|
+| To map landslides along key road corridors (main highways and new road construction) | Fusion of remote sensing data to catalog recent landslides, merge with existing records of landslide activity | Optical imagery, SAR data, and high-resolution digital elevation models | Landslide inventories | Better understanding of where, when, and how many landslides are occurring | 
+| To model landslide susceptibility | Determine terrain’s susceptibility to landslide initiation with locally calibrated empirical models, then generate runout simulations  | DEM, Land cover, Soils, Geology, landslide volume (or range of volumes)  to delineate runout  | Susceptibility map of each study area | Better infrastructure planning, due to ranking of road segments by probability of disruption | 
+| To incorporate landslide triggering events into a real-time dynamic model | Establish triggering relationships for hydrometeorological and seismic variables | Locally calibrated datasets for rain (including forecasts), snow, snowmelt, and seismicity | Nowcast that shows the current landslide hazard | Broad situational awareness of landslide hazard in real-time for multiple stakeholders | 
+| To characterize risk and vulnerability related to landslides and identify potential economic impacts in the transportation network due to the disruptions from landslides | Combine spatial data on hazard and exposure with economic analyses to assess road networks at risk to cascading landslide hazards | Population, Road networks (OSM), economic data (if available) from the World Bank | Indicators of Exposure, Vulnerability, and Risk | Better understanding of the geography of risk along road networks within Nepal | 
+<br>
+<br>
 ### PI Si-Chee Tsay
 Radiation, Aerosol Joint Observation-Modeling Exploration over Glaciers in Himalayan Asia
 
