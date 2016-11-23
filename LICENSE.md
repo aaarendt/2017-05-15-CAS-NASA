@@ -15,7 +15,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
   - each PI team is to map out their own STM. We will then combine and use to assess overall HiMAT science goals. 
 3. List of core capabilities & skills of team members:
   - enables people to discover who has answers to questions as they arise
-  - will be used to further populate [HiMAT interactive diagram](http://staff.washington.edu/landungs/himat_d3/#) by discipline, skill rather than just institution
+  - will be used to further populate [HiMAT interactive diagram](http://35.160.91.70/himat_d3/) by discipline, skill rather than just institution
 4. (optional) Data files related to any analysis completed on the initial target region (Indus Basin)
    
 <hr>
