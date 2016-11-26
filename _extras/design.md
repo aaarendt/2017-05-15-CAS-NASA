@@ -52,6 +52,15 @@ Multi-sensor impact analysis of cascading hazards and transportation corridors i
 | To characterize risk and vulnerability related to landslides and identify potential economic impacts in the transportation network due to the disruptions from landslides | Combine spatial data on hazard and exposure with economic analyses to assess road networks at risk to cascading landslide hazards | Population, Road networks (OSM), economic data (if available) from the World Bank | Indicators of Exposure, Vulnerability, and Risk | Better understanding of the geography of risk along road networks within Nepal | 
 <br>
 <br>
+### PI Sujay Kumar
+Quantifying hydrologic and cryospheric changes and associated mechanisms over High Mountain Asia using remote sensing, data assimilation and meteorological modeling
+
+| Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
+|:-------------|:-------------|:-------------|:-------------|:-------------|
+| <ul><li>Quantify estimates of multi-decadal changes in land surface snow and glaciers</li><li>Understand the impact of these changes on elevation dependent warming and associated land-atmosphere feedbacks</li></ul> |  <ul><li>Conduct a comprehensive land reanalysis using the NASA LIS data assimilation environment using advanced machine learning tools at 1km spatial resolution</li><li>Conduct coupled regional mesoscale simulations using the NASA NU-WRF environment</li></ul> | Passive microwave, optical, IR and thermal observations (SMMR, SSMI, AMSR-E, AMSR2, MODIS, VIIRS, Landsat), Meteorological inputs (precipitation, radiation), Land surface parameters (vegetation, topography, soils, albedo, LAI), terrestrial water storage (GRACE) | Snow Water Equivalent, snow depth, snow melt, snow cover, snow grain size, soil moisture, terrestrial water storage,  latent, sensible fluxes, evaporation, surface and subsurface runoff, canopy evaporation, surface temperature, vegetation temperature, soil temperature, Reference datasets of snow/ice changes, runoff, altimetry, temperature, snow cover | 
+<ul><li>Quantification of changes in water availability over river basins originating from HMA</li><li>Regional water budget component estimates and changes in their variability</li><li>Quantify the impact of elevation dependent warming and snow-albedo feedbacks over HMA</li><li>Development of techniques for the optimal exploitation of information content of remote sensing measurements |
+<br>
+<br>
 ### PI Summer Rupper
 Precipitation and Glacier Change in High Mountain Asia Over the Modern Era
 
