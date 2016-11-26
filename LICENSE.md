@@ -29,16 +29,18 @@ All PI Teams are required to provide the following to Anthony prior to the works
 | 9:20 - 9:40 am | Connecting to other participants |
 | 9:45 - 10:30 am | Where are we starting? (Anthony and Tom) | 
 | 10:30 - 10:45 am | Coffee break |
-| 10:45 - 11:45 am | Lightning talks (Round 1) |
-|11:45 am - 12:15 pm | discussion and sensemaking |
+| 10:45 - 11:55 am | Lightning talks (Round 1) |
+|11:55 am - 12:15 pm | discussion and sensemaking |
 | 12:15 - 1:15 pm | Lunch |
-| 1:15 - 2:15 pm | Lightning talks (Round 2) |
-| 2:15 pm - 2:45 pm | discussion and sensemaking |
+| 1:15 - 2:25 pm | Lightning talks (Round 2) |
+| 2:25 pm - 2:45 pm | discussion and sensemaking |
 | 2:45 - 3:00 pm | Coffee break |
 | 3:00 - 4:00 pm | Ligthtning talks (Round 3) |
-| 4:00 - 4:30 pm | discussion and sensemaking |
-| 4:30 - 4:45 pm | Debrief and closing (Anthony) |
-| 6:00 - 8:00 pm | Group dinner (?) |
+| 4:00 - 4:20 pm | discussion and sensemaking |
+| 4:20 - 4:40 pm | Team debrief |
+| 4:40 - 5:00 pm | Trading places |
+| 5:00 - 5:10 pm | Anthony closing |
+| 6:00 - 8:00 pm | Group dinner |
 
 # Day 2: Wednesday Nov. 30
 
@@ -53,7 +55,10 @@ All PI Teams are required to provide the following to Anthony prior to the works
 | 1:30 - 2:00 pm | Cloud technology demonstration (Batu, Goddard IT, Anthony) |
 | 2:00 - 2:20 pm | Digital globe imagery (David) |
 | 2:20 - 2:30 pm | Coffee |
-| 2:30 - 5:00 pm | Small group breakouts (model and data atlas, data hacking) |
+| 2:30 - 3:30 pm | Small group breakouts (model atlas, data hacking) |
+| 3:30 - 3:45 pm | report out |
+| 3:45 - 4:45 pm | Small group breakouts (data atlas) |
+| 4:45 - 5:00 pm | report out |
 | 5:00 - 5:15 pm | Closing |
 
 
@@ -65,7 +70,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
 | 9:15 - 9:30 am | Connecting |
 | 9:30 - 10:30 am | HiMAT STM check-in and review |
 | 10:30 - 10:45 am | Coffee |
-| 10:45 - 11:30 am | Assorted topics |
+| 10:45 - 11:30 am | Assorted topics - modify workplans |
 | 11:30 am - 12:00 pm | action planning |
 | 12:00 - 1:00 pm | Lunch |
 | 1:00 - 3:00 pm | Goddard tour |

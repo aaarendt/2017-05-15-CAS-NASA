@@ -3,9 +3,6 @@ layout: page
 title: Science Traceability Matrix (STM)
 permalink: /design/
 ---
-
-Below is an example STM for one of the 12 HiMAT projects. We will populate STMs for all 12 projects prior to the workshop.
-
 <hr>
 
 <hr>
