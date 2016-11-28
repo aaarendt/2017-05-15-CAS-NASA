@@ -25,19 +25,36 @@ All PI Teams are required to provide the following to Anthony prior to the works
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 - 9:20 am | Welcome and introductions (Tom, Anthony, Goddard official) |
+| 9:00 - 9:20 am | Welcome and introductions (Tom, Goddard official, Anthony) |
 | 9:20 - 9:40 am | Connecting to other participants |
-| 9:45 - 10:30 am | Where are we starting? (Anthony and Tom) | 
+| 9:45 - 10:30 am | Where are we starting? (Anthony) | 
 | 10:30 - 10:45 am | Coffee break |
-| 10:45 - 11:55 am | Lightning talks (Round 1) |
-|11:55 am - 12:15 pm | discussion and sensemaking |
-| 12:15 - 1:15 pm | Lunch |
-| 1:15 - 2:25 pm | Lightning talks (Round 2) |
-| 2:25 pm - 2:45 pm | discussion and sensemaking |
-| 2:45 - 3:00 pm | Coffee break |
-| 3:00 - 4:00 pm | Ligthtning talks (Round 3) |
-| 4:00 - 4:20 pm | discussion and sensemaking |
-| 4:20 - 4:40 pm | Team debrief |
+|  | Lightning talks (Round 1) |
+|	10:45 AM	to	10:58 AM	| 	Sarah Kapnick	|
+|	10:58 AM	to	11:11 AM	| 	Paul Houser	|
+|	11:11 AM	to	11:24 AM	| 	Summer Rupper	|
+|	11:24 AM	to	11:37 AM	| 	Si-Chee Tsay	|
+|	11:37 AM	to	11:50 AM	| 	Batu Osmanoglu	|
+| 11:50 - 12:10 pm | discussion: climate processes and downscaling |
+| | Summer Rupper; Richard Lammers, Paul Houser, Ginoux?, Marco Tedesco |
+| 12:10 - 1:10 pm | Lunch |
+|  | Lightning talks (Round 2) |
+|	1:10 PM	to	1:23 PM	|	Tom Painter	|
+|	1:23 PM	to	1:36 PM	|	Isabella Velicogna	|
+|	1:36 PM	to	1:49 PM	|	Sujay Kumar	|
+|	1:49 PM	to	2:02 PM	|	Steve Margulis	|
+|	2:02 PM	to	2:15 PM	|	Anthony Arendt	|
+| 2:15 pm - 2:35 pm | discussion: models/obeservations of land surface processes |
+| | Sujay Kumar, Yun Qian, |
+| 2:35 - 2:50 pm | Coffee break |
+|  | Ligthtning talks (Round 3) |
+|	3:00 PM	to	3:13 PM	|	Dalia Kirschbaum	|
+|	3:13 PM	to	3:26 PM	|	Jeff Kargel	|
+|	3:26 PM	to	3:39 PM	|	Kyle McDonald	|
+|	3:39 PM	to	3:52 PM	|	Bruce Raup	|
+| 3:55 - 4:15 pm | discussion: impacts and hazards |
+| | Furfaro?, Kyle McDonald, Dalia Kirschbaum |
+| 4:15 - 4:40 pm | Team debrief |
 | 4:40 - 5:00 pm | Trading places |
 | 5:00 - 5:10 pm | Anthony closing |
 | 6:00 - 8:00 pm | Group dinner |
@@ -115,7 +132,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
 ### Who we are and what we are doing :: 4.5 hours
 
 * 4 <a href="{{ page.root }}/customization/">Lightning talks</a> :: 10 mins/talk
-* Feedback cards and collaboration notes after each :: 5 mins/talk
+* Feedback cards and collaboration notes after each :: 3 mins/talk
 * Spotlight discussion :: 20 min
    * Foster understanding about an area of the science or data challenge by hearing from a small group of people with direct experience discuss the topic between them 
 * Group discussion and sensemaking :: 10 mins
