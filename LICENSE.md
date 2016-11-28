@@ -103,14 +103,13 @@ All PI Teams are required to provide the following to Anthony prior to the works
 
 ### Where are we starting? :: 45 mins
 
-* [Interview](http://www.liberatingstructures.com/5-appreciative-interviews-ai/) & presentation by Anthony (and Tom?)
+* [Interview](http://www.liberatingstructures.com/5-appreciative-interviews-ai/) & presentation by Anthony 
   * Explore leadership approach and mechanisms for the coordination effort 
   * What _must_ we achieve? What are the metrics of success for HiMAT?
   * Explore what we mean when discussing integration, collaboration and autonomy
   * Discuss strategy questions and conceptual maps of the overall effort 
   * What is GMELT?
   * What is the leadership's view of most important science objectives? 
-  * Present Science Traceability Matrix draft for HiMAT
   * (optional) How does our upcoming engagement with China impact HiMAT activities and planning?
 
 ### Who we are and what we are doing :: 4.5 hours

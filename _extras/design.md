@@ -60,6 +60,27 @@ Quantifying hydrologic and cryospheric changes and associated mechanisms over Hi
 | <ul><li>Quantify estimates of multi-decadal changes in land surface snow and glaciers</li><li>Understand the impact of these changes on elevation dependent warming and associated land-atmosphere feedbacks</li></ul> |  <ul><li>Conduct a comprehensive land reanalysis using the NASA LIS data assimilation environment using advanced machine learning tools at 1km spatial resolution</li><li>Conduct coupled regional mesoscale simulations using the NASA NU-WRF environment</li></ul> | Passive microwave, optical, IR and thermal observations (SMMR, SSMI, AMSR-E, AMSR2, MODIS, VIIRS, Landsat), Meteorological inputs (precipitation, radiation), Land surface parameters (vegetation, topography, soils, albedo, LAI), terrestrial water storage (GRACE) | Snow Water Equivalent, snow depth, snow melt, snow cover, snow grain size, soil moisture, terrestrial water storage,  latent, sensible fluxes, evaporation, surface and subsurface runoff, canopy evaporation, surface temperature, vegetation temperature, soil temperature, Reference datasets of snow/ice changes, runoff, altimetry, temperature, snow cover | <ul><li>Quantification of changes in water availability over river basins originating from HMA</li><li>Regional water budget component estimates and changes in their variability</li><li>Quantify the impact of elevation dependent warming and snow-albedo feedbacks over HMA</li><li>Development of techniques for the optimal exploitation of information content of remote sensing measurements</li></ul> |
 <br>
 <br>
+### PI Steve Margulis
+Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach
+
+| Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
+|:-------------|:-------------|:-------------|:-------------|:-------------|
+| To assess the representavity of the MERRA-2 reanalysis over HMA snow-dominated basins | Analyze the relationship between
+large-scale MERRA-2 estimates and local in-situ meteorological data | MERRA-2 reanalysis dataset, in-situ meteorological data | Uncertainty functions for the MERRA-2 dataset over the HMA region | Identifica,on of the error structure of MERRA-2 over the HMA region |
+| To identify the modes of spatiotemporal variability in SWE and snow accumulation and melt processes over the HMA region | Develop a snow reanalysis dataset over the HMA region by combining model estimates and fSCA observations within a data
+assimilation framework | Landsat fSCA time series, static inputs (DEM, slope, etc.), dynamic inputs (MERRA-2 forcing data) |  Daily SWE and fSCA time series between 1984-2016 for the HMA domain, other snow states from reanalysis as well possible | Identification of the physiographic and climatic drivers behind snow accumulation and melt over the region, distributed climatology of snow accumulation and melt consistent with remotely sensed depletion record |
+| To assess how snow accumulation and melt processes have changed during the last ~30 years | Evaluate the reanalysis results using trend testing, identify areas of changing accumulation and melt patterns | Snow reanalysis outputs | Statistical trend test results and spatiotemporal paVerns of change over the HMA region | Identification of regions with
+declining snow reserves, changing accumulation or melt patterns |
+| To quantify how SWE accumulation modulates streamflow over the HMA region | Relate the SWE outputs from the reanalysis to streamflow measurements throughout the region | Snow reanalysis outputs and observed streamflow volumes | Mathematical relationships between SWE metrics and streamflow metrics | Quantification of the relationship between snow and streamflow throughout the HMA region and identification of regions where snow plays a significant role instreamflow generation |
+| To improve process parameterization of RCMs over the
+HMA region |  Diagnosis of RCM simulations using SWE reanalysis results | RCM simulations, snow reanalysis outputs | RCM simulations | Improvement of RCM process parameterization | 
+| To identify the underlying atmospheric drivers of variability in SWE accumulation and melt patterns over the region |
+Use RCM outputs and MERRA-2 atmospheric fields to diagnose
+drivers behind accumulation and melt patterns over the region |
+RCM simulations, MERRA-2 atmospheric variables, snow reanalysis outputs | Relationship between snowpack states and atmospheric variables | Identification of main atmospheric
+drivers behind snow accumulation and melt over the region, relationship between snow and large-scale climatic indices |
+<br>
+<br>
 ### PI Summer Rupper
 Precipitation and Glacier Change in High Mountain Asia Over the Modern Era
 
