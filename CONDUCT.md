@@ -26,7 +26,7 @@ permalink: /conduct/
 | 16 | [Dalia Kirschbaum](mailto:dalia.b.kirschbaum@nasa.gov) | NASA Goddard Space Flight Center | Y | N |
 | 17 | [Anil Kulkarni](mailto:anilkulkarni@caos.iisc.ernet.in) | Indian Institute of Science | Y | Y |
 | 18 | [Sujay Kumar](mailto:sujay.v.kumar@nasa.gov) | NASA Goddard Space Flight Center | Y | Y |
-| 19 | [Kirk Lagory](mailto:lagory@anl.gov) | Argonne National Laboratory | Y | Y |
+| 19 | [Kirk Lagory](mailto:lagory@anl.gov) | Argonne National Laboratory | canceled | canceled |
 | 20 | [Richard Lammers](mailto:Richard.Lammers@unh.edu) | University of New Hampshire | N | Y |
 | 21 | [Bryant Loomis](mailto:bryant.d.loomis@nasa.gov) | NASA Goddard Space Flight Center | N | Y |
 | 22 | [Scott Luthcke](mailto:scott.b.luthcke@nasa.gov) | NASA Goddard Space Flight Center | N | N |
