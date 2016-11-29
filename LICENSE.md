@@ -45,7 +45,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
 |	1:49 PM	to	2:02 PM	|	Steve Margulis	|
 |	2:02 PM	to	2:15 PM	|	Anthony Arendt	|
 | 2:15 pm - 2:35 pm | discussion: models/obeservations of land surface processes |
-| | Sujay Kumar, Yun Qian, Bart Forman, Anil Kulkarni, Richard Lammers |
+| | Sujay Kumar, Yun Qian, Bart Forman, Anil Kulkarni, Batu Osmaloglu |
 | 2:35 - 2:50 pm | Coffee break |
 |  | Ligthtning talks (Round 3) |
 |	3:00 PM	to	3:13 PM	|	Dalia Kirschbaum	|
