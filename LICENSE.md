@@ -36,7 +36,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
 |	11:24 AM	to	11:37 AM	| 	Si-Chee Tsay	|
 |	11:37 AM	to	11:50 AM	| 	Batu Osmanoglu	|
 | 11:50 - 12:10 pm | discussion: climate processes and downscaling |
-| | Summer Rupper; Richard Lammers, Paul Houser, Ginoux?, Marco Tedesco |
+| | Jim Steenburgh, Richard Lammers, Viviana Maggioni, Paul Ginoux, Marco Tedesco |
 | 12:10 - 1:10 pm | Lunch |
 |  | Lightning talks (Round 2) |
 |	1:10 PM	to	1:23 PM	|	Tom Painter	|
@@ -45,7 +45,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
 |	1:49 PM	to	2:02 PM	|	Steve Margulis	|
 |	2:02 PM	to	2:15 PM	|	Anthony Arendt	|
 | 2:15 pm - 2:35 pm | discussion: models/obeservations of land surface processes |
-| | Sujay Kumar, Yun Qian, |
+| | Sujay Kumar, Yun Qian, Bart Forman, Anil Kulkarni, Richard Lammers |
 | 2:35 - 2:50 pm | Coffee break |
 |  | Ligthtning talks (Round 3) |
 |	3:00 PM	to	3:13 PM	|	Dalia Kirschbaum	|
@@ -53,7 +53,7 @@ All PI Teams are required to provide the following to Anthony prior to the works
 |	3:26 PM	to	3:39 PM	|	Kyle McDonald	|
 |	3:39 PM	to	3:52 PM	|	Bruce Raup	|
 | 3:55 - 4:15 pm | discussion: impacts and hazards |
-| | Furfaro?, Kyle McDonald, Dalia Kirschbaum |
+| | Jeff Kargel, John Hayse, David Bekaert, Sasha Richey |
 | 4:15 - 4:40 pm | Team debrief |
 | 4:40 - 5:00 pm | Trading places |
 | 5:00 - 5:10 pm | Anthony closing |
