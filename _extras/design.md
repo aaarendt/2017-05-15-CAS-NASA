@@ -15,6 +15,14 @@ To develop a scientific understanding of Earth's system and its response to natu
 * __Objective #1__: To determine the physical processes driving changes in water resources in the HMA region.
 * __Objective #2__: To predict impacts of changing HMA water resources on human and biogeophysical systems.  
 
+
+| Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
+|:-------------|:----------------------|:-------------|:-------------|:-------------|
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
+| | | | | | 
 <hr>
 <hr>
 
