@@ -41,6 +41,17 @@ Quantifying the Role of Dust on Precipitation, Snow, and Runoff in High Mountain
 | To assess future HMA hydroclimate | Run global climate model with and without deposition events from present to 2100 | Parameterization from previous objective outcome, global climate model simulations | Global climate model output for HMA region at 50 km resolution for meteorological data and aerosols for a climate change simulation with and without aerosol deposition |<ul><li>Improves our understanding of how surface albedo changes from aerosols will affect hydroclimate and regional climate sensitivity in the future</li><li>Quantify the role of dust in future HMA water availability</li></ul> |
 <br>
 <br>
+### PI Jeff Kargel
+Interlinked glacier dynamics, lakes, mountain hazards, and critical vulnerabilities in the Himalaya
+
+| Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
+|:-------------|:-------------|:-------------|:-------------|:-------------|
+Investigate glaciers, snow, precipitation: Changes, Water resources, Induced impacts, Human vulnerabilities, Biogeophysical  systems | <ul><li>How are Himalayan glacier lakes and glaciers changing on seasonal, annual, and 30-year time scales? Lake area, depth, and volume; Glacier length, area, mass balance</li><li> Potential GLOF triggers: How have glacial lakes been affected by mass movements (landslides and avalanches), and by moraine downwasting or thermokarst/pond development?</li><li>How have satellite-era snow/ice melt floods compared to rainfall-caused floods and outbursts from glacial lakes and glacier-associated landslide dammed lakes?  What are the different flood types’ geographic reaches and magnitudes? </li></ul> | <ul><li>EMPIRICAL STUDIES: TASK 1a. Satellite time series of glacial lakes: Time series of lake areas, turbidity proxy, seasonally resolved, satellite era. Published lake depths and volumes.</li><li>Task 1b. Satellite time series of moraine dams, lateral moraines, mountain slopes: Use high repeat frequency images to assess landslides and avalanches. Selected images: Semi-auto snow, ice, debris, water mapping of avalanches, rockfalls, supraglacial ponds. </li><li>Task 1c. Satelite times series of glaciers/snow. Annual, decadal trends in seasonal snowcover, glacier extent, avalanches, glacier lakes, glacier flow & length, downstream river wetted area.  Selected glacier thickness/volume change. </li></ul> | <ul><li>Landsat, ASTER, ALI, WV imaging, ~100 images per lake. Lake area, albedo/color time series.  </li><li>Landsat, ALI, ASTER time series.  WorldView for detailed look and interpretation. WV repeat DEMs of selected moraine dams of interest. </li><li>Landsat, ALI, ASTER, WV: cryosphere fluctuations. Populate NSIDC GLIMS glacier database.  ASTER GDEM, SRTM topo.  Precipitation & snowmelt floods; GLOF models.</li></ul> | 
+ 
+
+ 
+
+
 ### PI Dalia Kirschbaum
 Multi-sensor impact analysis of cascading hazards and transportation corridors in Nepal
 
