@@ -18,11 +18,11 @@ To develop a scientific understanding of Earth's system and its response to natu
 
 | Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
 |:-------------|:----------------------|:-------------|:-------------|:-------------|
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
-| | | | | | 
+| 1 | | | | | 
+| 2 | | | | | 
+| 3 | | | | | 
+| 4 | | | | | 
+| 5 | | | | | 
 <hr>
 <hr>
 
