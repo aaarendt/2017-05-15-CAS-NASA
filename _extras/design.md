@@ -103,10 +103,13 @@ Understanding High Mountain Asia: Assessing climate-induced river flow change an
 
 | Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
 |:-------------|:-------------|:-------------|:-------------|:-------------|
-| To derive data products based on satellite remote sensing observations to provide optimal constraints for the modeling framework | use (a) high-­resolution spaceborne imagery to derive DSMs for glacier volume change; (b) radar imagery in combination with existing snow extent maps to obtain snow cover extent and in combination with a DSM snow line altitudes, and (c) optical imagery to map glacier debris cover extent | Worldview-­1, -2, -3, Landsat, Envisat, Sentinel-1 | Digital Elevation Models
-Snow Cover Extent Maps Snow Line Altitudes Glacier Debris Cover Maps |Independent glacier volume change estimates by DEM differencing, high resolution snow cover/snow line altitude maps. Annual glacier debris cover maps. |
+| To derive data products based on satellite remote sensing observations to provide optimal constraints for the modeling framework | use (a) high-­resolution spaceborne imagery to derive DSMs for glacier volume change; (b) radar imagery in combination with existing snow extent maps to obtain snow cover extent and in combination with a DSM snow line altitudes, and (c) optical imagery to map glacier debris cover extent | Worldview-­1, -2, -3, Landsat, Envisat, Sentinel-1 | Digital Elevation Models Snow Cover Extent Maps Snow Line Altitudes Glacier Debris Cover Maps |Independent glacier volume change estimates by DEM differencing, high resolution snow cover/snow line altitude maps. Annual glacier debris cover maps. |
 | To elucidate the regional­ scale monsoon ­driven climate dynamics with focus on precipitation patterns across the HMA region | applying a regional climate model with unprecedented spatial resolution application of a high resolution, convection­ permitting, regional climate model to provide precipitation and other meteorological data | TRMM 3B42 MODIS AIRS CMIP5 | high resolution precipitation simulations and other atmospheric parameters | |
-	
+| To assess recent glacier changes and forecast future glacier evolution | develop a new model framework that will model the mass evolution of every glacier in the HMA based on air temperature and precipitation, and simple approaches to account for glacier geometry changes | sowline altitude, Debris cover, Grace, In-situ data (ICIMOD), Glacier area and width (RGI) Ice Thickness |	Glacier mass-change over the simulation years | framework that, as a whole, will exceed any of the existing large­scale glacier models in functionality and flexibility , and directly feed into  GMELT |
+| To quantify the hydrological response to climate and glacier changes and forecast how those changes impact human water availability downstream of HMA. | coordinate WBM with the climate, glacier and snow extent models to explore the complete hydrological system of water in HMA and the human impacts | Precipitation Temperature Snow dynamics Land cover types, including crop land and irrigated crop land Dam & reservoir locations | estimates of time varying water availability across the region | 	assess the vulnerability of humans in the downstream regions in response to changes in HMA |
+
+
+
 
 
 ### PI Thomas Painter
