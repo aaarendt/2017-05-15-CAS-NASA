@@ -4,28 +4,22 @@ title: Science Traceability Matrix (STM)
 permalink: /design/
 ---
 <hr>
-
 <hr>
 # NASA Earth System Science
 
 To develop a scientific understanding of Earth's system and its response to natural or human-induced changes, and to improve prediction of climate, weather, and natural hazards.
 
-## NASA High Mountain Asia Team (HiMAT)
-
-* __Objective #1__: To determine the physical processes driving changes in water resources in the HMA region.
-* __Objective #2__: To predict impacts of changing HMA water resources on human and biogeophysical systems.  
-
 
 | Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
 |:-------------|:----------------------|:-------------|:-------------|:-------------|
-| 1 | | | | | 
-| 2 | | | | | 
-| 3 | | | | | 
-| 4 | | | | | 
-| 5 | | | | | 
+| To quantify historical and future spatial and temporal variability climate over the HMA | | | | | 
+| To determine the physical processes driving changes in atmospheric, cryospheric and hydrospheric in the HMA region. | | | | | 
+| To partition the components of the water budget of watersheds in the HMA and how that varies in space and time | | | | | 
+| To predict impacts of changing hydrological cyle on human and biogeophysical systems  | | | | | 
+| To determine new ways to utilize remote sensing data to calibrate and validate models of the HMA system | | | | | 
+| To discover couplings and feedbacks between physical and human systems in the HMA region | | | | | 
 <hr>
 <hr>
-
 ### PI Arendt
  Validating a Glacier Melt Toolbox For High Mountain Asia Using a Remote-Sensing-Driven Data Integration Framework
 
@@ -107,11 +101,8 @@ Understanding High Mountain Asia: Assessing climate-induced river flow change an
 | To elucidate the regional scale monsoon driven climate dynamics with focus on precipitation patterns across the HMA region | applying a regional climate model with unprecedented spatial resolution application of a high resolution, convection permitting, regional climate model to provide precipitation and other meteorological data | TRMM 3B42 MODIS AIRS CMIP5 | high resolution precipitation simulations and other atmospheric parameters | |
 | To assess recent glacier changes and forecast future glacier evolution | develop a new model framework that will model the mass evolution of every glacier in the HMA based on air temperature and precipitation, and simple approaches to account for glacier geometry changes | sowline altitude, Debris cover, Grace, In-situ data (ICIMOD), Glacier area and width (RGI) Ice Thickness |	Glacier mass-change over the simulation years | framework that, as a whole, will exceed any of the existing large-scale glacier models in functionality and flexibility , and directly feed into GMELT |
 | To quantify the hydrological response to climate and glacier changes and forecast how those changes impact human water availability downstream of HMA. | coordinate WBM with the climate, glacier and snow extent models to explore the complete hydrological system of water in HMA and the human impacts | Precipitation Temperature Snow dynamics Land cover types, including crop land and irrigated crop land Dam and reservoir locations | estimates of time varying water availability across the region | assess the vulnerability of humans in the downstream regions in response to changes in HMA |
-
-
-
-
-
+<br>
+<br>
 ### PI Thomas Painter
 
 | Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
@@ -120,10 +111,8 @@ Understanding High Mountain Asia: Assessing climate-induced river flow change an
 | OBJ2: Validate physically-based mesoscale modeling with remote sensing and determine optimal calibration to minimize errors | Assess mesoscale climate model results with remotely sensed fSCA, radiative forcing by dust/BC, grain size, and albedo, and in situ impurity concentrations and albedo measurements. | WRF-Chem CLM SNICAR model runs over HMA for 2000-present. MODSCAG, MODDRFS, VIIRSCAG, VIIRSDRFS, OLISCAG, OLIDRFS outputs at native resolution and coarsened resolution to match WCCS modeling grid. | Uncertainty and error analysis of WRF-Chem CLM SNICAR modeling of snowmelt and energy balance across HMA.  Calibration metrics to minimize errors while constrained by remotely sensed retrievals of snow properties.	| With the physically based modeling constrained by physically based remote sensing and in situ measurements, we have climate modeling that orients toward explicit energy balance treatment and capacity to address Objective 3. |
 | OBJ3: Understand relative contributions of variation in energy balance components to variation in snow and ice melt across the HMA in present day | Use the remote sensing- and in situ measurement-constrained mesoscale climate/RT modeling to understand how changes in GHG and dust/BC are impacting present day changes in snow and ice melt. | WRF-Chem CLM SNICAR model runs over HMA for 2000-present, having been constrained and re-calibrated for error minimization.	| Paritiioning of anomalies in snow warming and snowmelt rates into changs in GHG warming and dust/BC radiative forcing impacts on direct heating/melting and grain size coarsening. | The physically-based modeling, with constraint from remotely sensed retrievals and in situ measurements, will allow us to understand present day contributions of changes to the Earth system. |
 | OBJ4: Understand the future changes to snowmelt across HMA under scenarios of increased GHGs and changes in BC and dust emissions. | With the RS and in situ constrained and optimized mesoscale modeling,we can explore the likely changes in snowmelt, runoff, and glacier loss under expected scenarios of changes in GHG concentrations and dust/BC deposition.	| WRF-Chem CLM SNICAR model runs over HMA for 2000-present, having been constrained and re-calibrated for error minimization. Projected ranges of GHG change scenarios and dust/BC change scenarios.| Snowmelt, glacier melt, and runoff results under independent and combined scenarios of GHG and dust/BC changes in ranges of monthly, seasonal, and annual resolutions.	| These results will allow us to more quantitatively project expected changes to the HMA cryosphere and runoff regime under climate and particulate changes. In turn, downstream hydrology, ecosystem, and economic processes can be better understood.|
-
-
-
-
+<br>
+<br>
 ### PI Summer Rupper
 Precipitation and Glacier Change in High Mountain Asia Over the Modern Era
 
