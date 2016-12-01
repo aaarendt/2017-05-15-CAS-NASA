@@ -12,11 +12,11 @@ To develop a scientific understanding of Earth's system and its response to natu
 
 | Science Objectives | Approach | Data Needed  | Data/output generated | Expected Outcomes |
 |:-------------|:----------------------|:-------------|:-------------|:-------------|
-| To quantify historical and future spatial and temporal variability climate over the HMA | | | | | 
-| To determine the physical processes driving changes in atmospheric, cryospheric and hydrospheric in the HMA region. | | | | | 
-| To partition the components of the water budget of watersheds in the HMA and how that varies in space and time | | | | | 
-| To predict impacts of changing hydrological cyle on human and biogeophysical systems  | | | | | 
-| To determine new ways to utilize remote sensing data to calibrate and validate models of the HMA system | | | | | 
+| To quantify historical and future spatial / temporal variability climate over the HMA | Statistical analysis of three reanalyis products compared against available ground observations | Weather station data and reanalysis products | maps detailing spatial statistics | Quality asseessment of three climate reanalysis products for the Indus Basin | 
+| To determine the physical processes driving changes in atmospheric, cryospheric and hydrospheric in the HMA region. | Compare output from different models against DEM-difference maps, MODIS snow cover products and GRACE data to look at drivers of glacier and snow mass balance | DEM-differences, GRACE, MODIS | time series of glacier/snow mass balance | Multi-model assessment of potential control on variations in glacier and snow mass during the past 30 years in the Indus Basin | 
+| To partition the components of the water budget of watersheds in the HMA and how that varies in space and time | Compare the outputs of SWE, runoff, etc across space and time in the Indus Basin | A consistent set of model boundary conditions and climate forcings |daily temporal and variable spatial resolution model output across a consistently-defined model domain | An intercomparison of simulated water budgets for the Indus Basin using six different models | 
+| To predict impacts of changing hydrological cyle on human and biogeophysical systems  | force landslide/GLOF/economic valuation assessments with outputs from multiple model implementations and test sensitivity | runoff estimates from ensemble of model runs | various | Assessing the sensitivity of landslide/GLOF/economic valuation models to forcings from an ensemble of model runs for the ? watersheds in Nepal | 
+| To determine new ways to utilize remote sensing data to calibrate and validate models of the HMA system | | | | Utilizing GRACE/MODIS/? remote sensing data to calibrate an ensemble of hydrological models for the Indus Basin | 
 | To discover couplings and feedbacks between physical and human systems in the HMA region | | | | | 
 <hr>
 <hr>
