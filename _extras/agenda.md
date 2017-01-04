@@ -5,15 +5,8 @@ permalink: /customization/
 ---
 
 # Pre-Work:
-[ ] Team Profile
+[ ] prepare talks
 
-[ ] STM & science questions
-
-[ ] Top 3 papers for shared bibliography
-
-[ ] Core capabilities & skills of team members
-
- [ ] Data needs & assets
 
 # Day 1:
 ## Welcome & Introductions :: 20 mins
