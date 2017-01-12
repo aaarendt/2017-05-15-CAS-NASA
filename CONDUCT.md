@@ -24,4 +24,4 @@ permalink: /conduct/
 | [Jim Steenburgh](mailto:jim.steenburgh@utah.edu) | University of Utah |
 | [Marco Tedesco](mailto:mtedesco@ldeo.columbia.edu) | Columbia University |
 | [Si-Chee Tsay](mailto:si-chee.tsay@nasa.gov) | NASA Goddard Space Flight Center |
-| [Isabella Velicogna](mailto:isabella@uci.edu) | NASA Jet Propulsion Laboratory |
+| [Isabella Velicogna](mailto:isabella@uci.edu) | University of California, Irvine |
