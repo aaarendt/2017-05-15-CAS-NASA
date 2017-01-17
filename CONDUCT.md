@@ -19,6 +19,7 @@ permalink: /conduct/
  | [Kyle McDonald](mailto:kmcdonald2@ccny.cuny.edu) | City University of New York |
  | [Batuhan Osmanoglu](mailto:batuhan.osmanoglu@nasa.gov) | NASA Goddard Space Flight Center |
  | [Thomas Painter](mailto:thomas.painter@jpl.nasa.gov) | NASA Jet Propulsion Laboratory |
+ | [Yun Qian](mailto:yun.qian@pnnl.gov) | Pacific Northwest National Laboratory |
  | [Bruce Raup](mailto:braup@nsidc.org) | National Snow and Ice Data Center |
  | [Sasha Richey](mailto:sasha.richey@wsu.edu) | Washington State University |
  | [Summer Rupper](mailto:summer.rupper@geog.utah.edu) | University of Utah |
