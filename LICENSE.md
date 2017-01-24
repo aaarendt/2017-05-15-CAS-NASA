@@ -40,6 +40,21 @@ permalink: /license/
 | 3:15 pm - 5:15 pm | open workspace session # 2 | 
 | 5:15 pm - 5:30 pm | summary and closing |
 
+<br><br>
+Breakout group discussion topics:
+- What are the key areas of overlap in CAS/NASA activities?
+- How can we best provide information to one another to enhance progress of our respective research?
+- Are there datasets that can be shared, and if so, how do we distribute these to team members?
+- What are the best ways that CAS and NASA can coordinate engagement with local stakeholders? 
+
+<br><br>
+Open Workspace tasks:
+- building a map and atlas of available datasets in the region
+- comparison of modeling approaches; summarizing all the different models being used
+- exploring technologies for building GMELT (web services, cloud computing) that can be used by both NASA and CAS researchers
+
+<br><br>
+
 # Day 4: Thursday May 18
 ## Synthesis and next steps
 
