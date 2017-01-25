@@ -58,16 +58,15 @@ Schedule TBD
 ## Synthesis and next steps
 
 | Time | Topic / Activity |
-| 9:00 am - 12:00 pm | [Mendenhall Visitor Center](https://www.fs.usda.gov/detail/tongass/about-forest/offices/?cid=stelprdb5400800) field excursion |
-| 12:00 - 1:00 pm | lunch |
-| 1:00 pm - 3:00 pm | synthesis and reporting to the group |
-| 3:00 pm - 3:15 pm | coffee break |
-| 3:15 pm - 5:15 pm | planning for next steps | 
-| 5:15 pm - 5:30 pm | summary and closing |
-
+| 9:00 am - 9:15 am | Welcome and introductions |
+| 9:15 am - 10:45 am | synthesis and reporting to the group |
+| 10:45 am - 11:00 am | coffee break |
+| 11:00 am - 12:00 pm | planning for next steps | 
+| 12:00 pm - 1:00 pm | lunch |
+| 1:00 pm - 5:00 pm | [Mendenhall Visitor Center](https://www.fs.usda.gov/detail/tongass/about-forest/offices/?cid=stelprdb5400800) field excursion |
 
 # Day 5: Friday May 19
 ## Field excursion: boat ride to Tracy Arm
 
-Approximately 6 hour tour. Details to be determined.
+Approximately [9 hour tour](http://allenmarinetours.com/juneau/tracy-arm-fjord-glacier-explorer/). Details to follow.
 
