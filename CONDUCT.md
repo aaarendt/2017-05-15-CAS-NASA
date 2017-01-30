@@ -7,7 +7,7 @@ permalink: /conduct/
 | | Name | Institute | Check-in | Check-out | 
 |:---:|-----:|:----------|:----------|:----------|
 | 1 | [Pukar Amatya](mailto:pukar.m.amatya@nasa.gov) | USRA |05-14-2017 |05-20-2017 |
-| 2 | [Anthony Arendt](mailto:arendta@uw.edu) | University of Washington |05-13-2017 |05-20-2017 |
+| 2 | [Anthony Arendt](mailto:arendta@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
 | 3 | [Yu-Chan Chao](mailto:chaoy@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
 | 4 | [Rob Fatland](mailto:rob5@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
 | 5 | [Bart Forman](mailto:baforman@umd.edu) | University of Maryland |05-14-2017 |05-20-2017 |
