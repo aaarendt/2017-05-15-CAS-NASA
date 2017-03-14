@@ -35,11 +35,11 @@ permalink: /conduct/
 | 25 | [Arnico Panday](mailto:Arnico.Panday@icimod.org) | ICIMOD |05-15-2017 |05-20-2017 |
 | 26 | [Yun Qian](mailto:yun.qian@pnnl.gov) | Pacific Northwest National Laboratory |05-14-2017 |05-20-2017 |
 | 27 | [Bruce Raup](mailto:braup@nsidc.org) | National Snow and Ice Data Center |05-14-2017 |05-20-2017 |
-| 28 | [Sasha Richey](mailto:sasha.richey@wsu.edu) | Washington State University |05-14-2017 |05-20-2017 |
-| 29 | [Summer Rupper](mailto:summer.rupper@geog.utah.edu) | University of Utah |05-14-2017 |05-20-2017 |
-| 30 | [Nancy Searby](mailto:nancy.d.searby@nasa.gov) | NASA HQ |05-14-2017 |05-20-2017 |
-| 31 | [David Shean](mailto:dshean@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
-| 32 | [Jim Steenburgh](mailto:jim.steenburgh@utah.edu) | University of Utah |05-15-2017 |05-19-2017 |
+| 28 | [Shane Reese](mailto:reese@stat.byu.edu) | Brigham Young University |05-14-2017 |05-20-2017 |
+| 29 | [Sasha Richey](mailto:sasha.richey@wsu.edu) | Washington State University |05-14-2017 |05-20-2017 |
+| 30 | [Summer Rupper](mailto:summer.rupper@geog.utah.edu) | University of Utah |05-14-2017 |05-20-2017 |
+| 31 | [Nancy Searby](mailto:nancy.d.searby@nasa.gov) | NASA HQ |05-14-2017 |05-20-2017 |
+| 32 | [David Shean](mailto:dshean@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
 | 33 | [Steve Tanner](mailto:braup@nsidc.org) | National Snow and Ice Data Center |05-14-2017 |05-20-2017 |
 | 34 | [Marco Tedesco](mailto:mtedesco@ldeo.columbia.edu) | Columbia University |05-14-2017 |05-20-2017 |
 | 35 | [Si-Chee Tsay](mailto:si-chee.tsay@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
