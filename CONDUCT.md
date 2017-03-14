@@ -25,9 +25,9 @@ permalink: /conduct/
 | 15 | [Dalia Kirschbaum](mailto:dalia.b.kirschbaum@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
 | 16 | [Sujay Kumar](mailto:sujay.v.kumar@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
 | 17 | [Richard Lammers](mailto:Richard.Lammers@unh.edu) | University of New Hampshire |05-14-2017 |05-20-2017 |
-| 18 | [Viviana Maggioni](mailto:vmaggion@gmu.edu) | George Mason University |05-14-2017 |05-19-2017 |
-| 19 | [Steve Margulis](mailto:margulis@seas.ucla.edu) | University of California, Los Angeles |05-14-2017 |05-20-2017 |
-| 20 | [Kyle McDonald](mailto:kmcdonald2@ccny.cuny.edu) | City University of New York |05-14-2017 |05-20-2017 |
+| 18 | [Steve Margulis](mailto:margulis@seas.ucla.edu) | University of California, Los Angeles |05-14-2017 |05-20-2017 |
+| 19 | [Kyle McDonald](mailto:kmcdonald2@ccny.cuny.edu) | City University of New York |05-14-2017 |05-20-2017 |
+| 20 | [Yiwen Mei](mailto:yiwen.mei@uconn.edu) | Univeristy Conneticut |05-14-2017 |05-20-2017 |
 | 21 | [Shruti Mishra](mailto:mishra@anl.gov) | Argonne National Laboratory |05-14-2017 |05-20-2017 |
 | 22 | [David Molden](mailto:David.Molden@icimod.org) | ICIMOD |05-15-2017 |05-20-2017 |
 | 23 | [Batuhan Osmanoglu](mailto:batuhan.osmanoglu@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
