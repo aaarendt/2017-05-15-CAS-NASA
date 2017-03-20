@@ -29,22 +29,21 @@ permalink: /conduct/
 | 19 | [Kyle McDonald](mailto:kmcdonald2@ccny.cuny.edu) | City University of New York |05-14-2017 |05-20-2017 |
 | 20 | [Yiwen Mei](mailto:yiwen.mei@uconn.edu) | Univeristy Conneticut |05-14-2017 |05-20-2017 |
 | 21 | [Shruti Mishra](mailto:mishra@anl.gov) | Argonne National Laboratory |05-14-2017 |05-20-2017 |
-| 22 | [David Molden](mailto:David.Molden@icimod.org) | ICIMOD |05-15-2017 |05-20-2017 |
-| 23 | [Batuhan Osmanoglu](mailto:batuhan.osmanoglu@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
-| 24 | [Thomas Painter](mailto:thomas.painter@jpl.nasa.gov) | NASA Jet Propulsion Laboratory |05-14-2017 |05-20-2017 |
-| 25 | [Arnico Panday](mailto:Arnico.Panday@icimod.org) | ICIMOD |05-15-2017 |05-20-2017 |
-| 26 | [Yun Qian](mailto:yun.qian@pnnl.gov) | Pacific Northwest National Laboratory |05-14-2017 |05-20-2017 |
-| 27 | [Bruce Raup](mailto:braup@nsidc.org) | National Snow and Ice Data Center |05-14-2017 |05-20-2017 |
-| 28 | [Shane Reese](mailto:reese@stat.byu.edu) | Brigham Young University |05-14-2017 |05-20-2017 |
-| 29 | [Sasha Richey](mailto:sasha.richey@wsu.edu) | Washington State University |05-14-2017 |05-20-2017 |
-| 30 | [Summer Rupper](mailto:summer.rupper@geog.utah.edu) | University of Utah |05-14-2017 |05-20-2017 |
-| 31 | [Nancy Searby](mailto:nancy.d.searby@nasa.gov) | NASA HQ |05-14-2017 |05-20-2017 |
-| 32 | [David Shean](mailto:dshean@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
-| 33 | [Steve Tanner](mailto:braup@nsidc.org) | National Snow and Ice Data Center |05-14-2017 |05-20-2017 |
-| 34 | [Marco Tedesco](mailto:mtedesco@ldeo.columbia.edu) | Columbia University |05-14-2017 |05-20-2017 |
-| 35 | [Si-Chee Tsay](mailto:si-chee.tsay@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
-| 36 | [Isabella Velicogna](mailto:isabella@uci.edu) | University of California, Irvine |05-14-2017 |05-20-2017 |
-| 37 | [Thomas Wagner](mailto:thomas.wagner@nasa.gov) | NASA HQ |05-14-2017 |05-20-2017 |
+| 22 | [Batuhan Osmanoglu](mailto:batuhan.osmanoglu@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
+| 23 | [Thomas Painter](mailto:thomas.painter@jpl.nasa.gov) | NASA Jet Propulsion Laboratory |05-14-2017 |05-20-2017 |
+| 24 | [Arnico Panday](mailto:Arnico.Panday@icimod.org) | ICIMOD |05-15-2017 |05-20-2017 |
+| 25 | [Yun Qian](mailto:yun.qian@pnnl.gov) | Pacific Northwest National Laboratory |05-14-2017 |05-20-2017 |
+| 26 | [Bruce Raup](mailto:braup@nsidc.org) | National Snow and Ice Data Center |05-14-2017 |05-20-2017 |
+| 27 | [Shane Reese](mailto:reese@stat.byu.edu) | Brigham Young University |05-14-2017 |05-20-2017 |
+| 28 | [Sasha Richey](mailto:sasha.richey@wsu.edu) | Washington State University |05-14-2017 |05-20-2017 |
+| 29 | [Summer Rupper](mailto:summer.rupper@geog.utah.edu) | University of Utah |05-14-2017 |05-20-2017 |
+| 30 | [Nancy Searby](mailto:nancy.d.searby@nasa.gov) | NASA HQ |05-14-2017 |05-20-2017 |
+| 31 | [David Shean](mailto:dshean@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
+| 32 | [Steve Tanner](mailto:braup@nsidc.org) | National Snow and Ice Data Center |05-14-2017 |05-20-2017 |
+| 33 | [Marco Tedesco](mailto:mtedesco@ldeo.columbia.edu) | Columbia University |05-14-2017 |05-20-2017 |
+| 34 | [Si-Chee Tsay](mailto:si-chee.tsay@nasa.gov) | NASA Goddard Space Flight Center |05-14-2017 |05-20-2017 |
+| 35 | [Isabella Velicogna](mailto:isabella@uci.edu) | University of California, Irvine |05-14-2017 |05-20-2017 |
+| 36 | [Thomas Wagner](mailto:thomas.wagner@nasa.gov) | NASA HQ |05-14-2017 |05-20-2017 |
 
 ### Chinese Academy of Sciences researchers
 
