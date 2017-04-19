@@ -8,7 +8,19 @@ permalink: /license/
 # Day 1: Monday May 15
 ## NASA HiMAT meeting
 
-#### Schedule TBD
+
+| Time | Topic / Activity |
+|------------:|:-------------|
+| 9:00 - 9:45 am | Welcome and reconnecting : what do you hope to accomplish in our time together? |
+| 9:45 - 10:45 am | 4 x 10 minute PI summaries |
+| 10:45 - 11:00 am | coffee break |
+| 11:00 am - 12:00 pm | 4 x 15 minute PI summaries |
+| 12:00 - 1:00 pm | lunch |
+| 1:00 pm - 2:15 pm | 5 x 15 minute PI summaries |
+| 2:15 pm - 3:15 pm | small group discussions : what did you notice; what conclusions can you draw; what seems realistic moving forward |
+| 3:15 pm - 3:30 pm | group conversation about the overall direction of HiMAT | 
+| 3:30 pm - 4:00 pm | team planning : what are primary objectives over the next 6 months; what are challenges to address; what do we need to be successful |
+| 4:00 pm - 4:15 pm | summary and closing |
 
 # Day 2: Tuesday May 16
 ## Update on research
