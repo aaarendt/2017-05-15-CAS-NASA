@@ -11,7 +11,7 @@ permalink: /conduct/
 | 1 | [Pukar Amatya](mailto:pukar.m.amatya@nasa.gov) | USRA |05-14-2017 |05-20-2017 |
 | 2 | [Anthony Arendt](mailto:arendta@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
 | 3 | [Yu-Chan Chao](mailto:chaoy@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |
-| 4 | [Gonzalo Cortez](mailto:gcortes@ucla.edu) | University of California, Los Angeles |05-14-2017 |05-20-2017 |
+| 4 | [Gonzalo Cortes](mailto:gcortes@ucla.edu) | University of California, Los Angeles |05-14-2017 |05-20-2017 |
 | 5 | [Lee Ellenburg](mailto:lee.ellenburg@nasa.gov) | NASA-SERVIR |05-15-2017 |05-20-2017 |
 | 6 | [Mats  Erikkson](mailto:Mats.Eriksson@icimod.org) | ICIMOD |05-15-2017 |05-20-2017 |
 | 7 | [Rob Fatland](mailto:rob5@uw.edu) | University of Washington |05-14-2017 |05-20-2017 |

@@ -4,6 +4,13 @@ title: "Agenda"
 permalink: /license/
 ---
 
+# Pre-Work:
+
+[ ] Prepare talk for HiMAT
+
+[_] Prepare talk for CAS/NASA
+
+[_] Prototyping preparations 
 
 # Day 1: Monday May 15
 ## NASA HiMAT meeting
