@@ -10,7 +10,7 @@ permalink: /license/
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 - 9:45 am | Welcome and reconnecting : what do you hope to accomplish in our time together? |
+| 9:00 - 9:45 am | Welcome and reconnecting |
 | 9:45 - 10:45 am | 4 x 10 minute PI summaries |
 | 10:45 - 11:00 am | coffee break |
 | 11:00 am - 12:00 pm | 4 x 15 minute PI summaries |
@@ -46,9 +46,9 @@ permalink: /license/
 | 10:45 am - 11:00 am | coffee break | 
 | 11:00 am - 12:00 pm | breakout group session #2 |
 | 12:00 - 1:00 pm | lunch |
-| 1:00 pm - 3:00 pm | open workspace session # 1|
+| 1:00 pm - 3:00 pm | open discussion |
 | 3:00 pm - 3:15 pm | coffee break |
-| 3:15 pm - 5:15 pm | open workspace session # 2 | 
+| 3:15 pm - 5:15 pm | open discussion | 
 | 5:15 pm - 5:30 pm | summary and closing |
 
 #### Breakout group Session #1:
@@ -63,11 +63,11 @@ permalink: /license/
 2. *Calibration and Validation Group* focusing on mechanisms for integrating ground observations with multiple satellite data and model products.
 3. *GMELT Group* discussion of methods for building web services and tools for decision support.
 
-#### Open Workspace tasks:
+#### Open discussion topics:
 
 - building a map and atlas of available datasets in the region
-- comparison of modeling approaches; summarizing all the different models being used
-- exploring technologies for building GMELT (web services, cloud computing) that can be used by both NASA and CAS researchers
+- continued sharing of scientific ideas and results
+- continued discussion of technologies for building GMELT (web services, cloud computing) for public hosting of relevant datasets
 
 # Day 4: Thursday May 18
 ## Synthesis and next steps
