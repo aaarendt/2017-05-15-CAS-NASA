@@ -4,14 +4,6 @@ title: "Agenda"
 permalink: /license/
 ---
 
-# Pre-Work:
-
-[ ] Prepare talk for HiMAT
-
-[_] Prepare talk for CAS/NASA
-
-[_] Prototyping preparations 
-
 # Day 1: Monday May 15
 ## NASA HiMAT meeting
 
@@ -24,9 +16,9 @@ permalink: /license/
 | 11:00 am - 12:00 pm | 4 x 15 minute PI summaries |
 | 12:00 - 1:00 pm | lunch |
 | 1:00 pm - 2:15 pm | 5 x 15 minute PI summaries |
-| 2:15 pm - 3:15 pm | small group discussions : what did you notice; what conclusions can you draw; what seems realistic moving forward |
-| 3:15 pm - 3:30 pm | group conversation about the overall direction of HiMAT | 
-| 3:30 pm - 4:00 pm | team planning : what are primary objectives over the next 6 months; what are challenges to address; what do we need to be successful |
+| 2:15 pm - 3:15 pm | small group discussions with focus on prototyping results and data sharing |
+| 3:15 pm - 3:30 pm | coffee | 
+| 3:30 pm - 4:00 pm | team planning : what are primary objectives over the next 6 months, what is working well with HiMAT and what needs to be adjusted |
 | 4:00 pm - 4:15 pm | summary and closing |
 
 # Day 2: Tuesday May 16
@@ -59,13 +51,20 @@ permalink: /license/
 | 3:15 pm - 5:15 pm | open workspace session # 2 | 
 | 5:15 pm - 5:30 pm | summary and closing |
 
-#### Breakout group discussion topics:
-- What are the key areas of overlap in CAS/NASA activities?
-- How can we best provide information to one another to enhance progress of our respective research?
-- Are there datasets that can be shared, and if so, how do we distribute these to team members?
-- What are the best ways that CAS and NASA can coordinate engagement with local stakeholders? 
+#### Breakout group Session #1:
+
+1. *Process Studies Group* focusing on glacier and snow changes, evapotranspiration, precipitation, radiation, and lake changes.
+2. *Modeling and Analyzing Group* focusing on hydrological models, glacier models, and related large-scale analysis.
+3. *Downstream Impacts Group* focusing on ecological impacts, environment changes, hazards and economic impacts.
+ 
+#### Breakout group Session #2:
+
+1. *Data Products Group* discussion of data needs, products to be produced by various teams, and access to existing data.
+2. *Calibration and Validation Group* focusing on mechanisms for integrating ground observations with multiple satellite data and model products.
+3. *GMELT Group* discussion of methods for building web services and tools for decision support.
 
 #### Open Workspace tasks:
+
 - building a map and atlas of available datasets in the region
 - comparison of modeling approaches; summarizing all the different models being used
 - exploring technologies for building GMELT (web services, cloud computing) that can be used by both NASA and CAS researchers
