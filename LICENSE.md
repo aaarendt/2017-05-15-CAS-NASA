@@ -23,9 +23,9 @@ permalink: /license/
 
 <br><br>
 
+:stew:
 ## Dinner
-
-### :stew: CAS/NASA executive planning group: 5:00-9:00 PM dinner at Westmark Baranof Hotel
+### CAS/NASA executive planning group: 5:00-9:00 PM dinner at Westmark Baranof Hotel
 
 ### No scheduled dinner for remainder of the team; we will provide a list of possible restaurants 
 <br><br>
@@ -46,7 +46,8 @@ permalink: /license/
 | 5:15 pm - 5:30 pm | summary and closing |
 
 <br><br>
-## :stew: Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
+:stew:
+## Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
 <br><br>
  
 
@@ -85,9 +86,8 @@ permalink: /license/
 
 
 <br><br>
-
-## :fries: Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
-
+:fries:
+## Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
 <br><br>
 # Day 4: Thursday May 18
 ## Synthesis and next steps
@@ -100,13 +100,15 @@ permalink: /license/
 | 3:00 pm - 3:15 pm | coffee break |
 | 3:15 pm - 5:15 pm | planning for next steps | 
 | 5:15 pm - 5:30 pm | summary and closing |
-
-
-## :spaghetti: Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
-
+<br><br>
+:spaghetti:
+## Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
+<br><br>
 # Day 5: Friday May 19
 ## Field excursion: boat ride to Tracy Arm
 
 Approximately 6 hour tour. Details to be determined.
 
-## :pizza: Dinner: Pizzeria Roma
+<br><br>
+:pizza:
+## Dinner: Pizzeria Roma
