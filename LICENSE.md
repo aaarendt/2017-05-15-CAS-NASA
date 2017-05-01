@@ -21,14 +21,11 @@ permalink: /license/
 | 3:30 pm - 4:00 pm | team planning : what are primary objectives over the next 6 months, what is working well with HiMAT and what needs to be adjusted |
 | 4:00 pm - 4:15 pm | summary and closing |
 
-<br><br>
-
-:stew:
 ## Dinner
 ### CAS/NASA executive planning group: 5:00-9:00 PM dinner at Westmark Baranof Hotel
 
 ### No scheduled dinner for remainder of the team; we will provide a list of possible restaurants 
-<br><br>
+<br><br><br>
 
 # Day 2: Tuesday May 16
 ## Update on research
@@ -45,10 +42,8 @@ permalink: /license/
 | 3:15 pm - 5:15 pm | 8 x 15 minute PI summaries | 
 | 5:15 pm - 5:30 pm | summary and closing |
 
-<br><br>
-:stew:
 ## Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
-<br><br>
+<br><br><br>
  
 
 # Day 3: Wednesday May 17
@@ -84,11 +79,9 @@ permalink: /license/
 - continued sharing of scientific ideas and results
 - continued discussion of technologies for building GMELT (web services, cloud computing) for public hosting of relevant datasets
 
-
-<br><br>
-:fries:
 ## Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
-<br><br>
+<br><br><br>
+
 # Day 4: Thursday May 18
 ## Synthesis and next steps
 
@@ -100,15 +93,13 @@ permalink: /license/
 | 3:00 pm - 3:15 pm | coffee break |
 | 3:15 pm - 5:15 pm | planning for next steps | 
 | 5:15 pm - 5:30 pm | summary and closing |
-<br><br>
-:spaghetti:
+
 ## Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
-<br><br>
+<br><br><br>
+
 # Day 5: Friday May 19
 ## Field excursion: boat ride to Tracy Arm
 
 Approximately 6 hour tour. Details to be determined.
 
-<br><br>
-:pizza:
-## Dinner: Pizzeria Roma
+## Dinner: Pizzeria Roma (after 6 PM)
