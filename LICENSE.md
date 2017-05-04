@@ -56,7 +56,7 @@ permalink: /license/
 | 2:30 - 2:45 pm | SU Fengge: "Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau - uncertainties related to the precipitation input" |
 | 2:45 - 3:00 pm | Sujay Kumar: |
 | 3:00 pm - 3:15 pm | coffee break |
-| 3:15 - 3:30 pm | ZHANG Yili: ["Ecological effects of ice and snow change in High Mountain Asia"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHANG_Yili.pdf)
+| 3:15 - 3:30 pm | ZHANG Yili: ["Ecological effects of ice and snow change in High Mountain Asia"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHANG_Yili.pdf) |
 | 3:30 - 3:45 pm |  Isabella Velicogna: |
 | 3:45 - 4:00 pm | ZHANG Peng: "Fengyun Meteorological Satellites and their Observations to the High Mountain Asia" |
 | 4:00 - 4:15 pm | Jeff Kargel: |
