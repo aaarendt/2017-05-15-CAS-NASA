@@ -53,7 +53,7 @@ permalink: /license/
 | 1:45 - 2:00 pm | Batuhan OSMANOGLU: |
 | 2:00 - 2:15 pm | LI Xin: "Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin" |
 | 2:15 - 2:30 pm | David SHEAN: | 
-| 2:30 - 2:45 pm | SU Fengge: "Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau—uncertainties related to the precipitation input" |
+| 2:30 - 2:45 pm | SU Fengge: "Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau - uncertainties related to the precipitation input" |
 | 2:45 - 3:00 pm | Sujay KUMAR: |
 | 3:00 pm - 3:15 pm | coffee break |
 | 3:15 - 3:30 pm | ZHANG Peng: "Fengyun Meteorological Satellites and their Observations to the High Mountain Asia" |
