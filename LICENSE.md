@@ -49,16 +49,16 @@ permalink: /license/
 | 12:00 - 1:00 pm | lunch |
 | 1:00 - 1:15 pm | JIA Li: ["Glacier changes and energy and water balance of High Mountain Asia from satallite observation"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_li.pdf) |
 | 1:15 - 1:30 pm | Thomas PAINTER: |
-| 1:30 - 1:45 pm | WANG Ninglian: ["Understanding the spatial pattern of the glacier changes in the Tibetan Plateau"] |
+| 1:30 - 1:45 pm | WANG Ninglian: "Understanding the spatial pattern of the glacier changes in the Tibetan Plateau" |
 | 1:45 - 2:00 pm | Batuhan OSMANOGLU: |
-| 2:00 - 2:15 pm | LI Xin: ["Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin"]()|
+| 2:00 - 2:15 pm | LI Xin: "Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin" |
 | 2:15 - 2:30 pm | David SHEAN: | 
-| 2:30 - 2:45 pm | SU Fengge: ["Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau—uncertainties related to the precipitation input"] |
+| 2:30 - 2:45 pm | SU Fengge: "Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau—uncertainties related to the precipitation input" |
 | 2:45 - 3:00 pm | Sujay KUMAR: |
 | 3:00 pm - 3:15 pm | coffee break |
-| 3:15 - 3:30 pm | ZHANG Peng: ["Fengyun Meteorological Satellites and their Observations to the High Mountain Asia"] |
+| 3:15 - 3:30 pm | ZHANG Peng: "Fengyun Meteorological Satellites and their Observations to the High Mountain Asia" |
 | 3:30 - 3:45 pm | Isabella VELICOGNA: |
-| 3:45 - 4:00 pm | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"]((https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QUI_Yubao.pdf) |
+| 3:45 - 4:00 pm | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QUI_Yubao.pdf) |
 | 4:00 - 4:15 pm | Jeff KARGEL: |
 | 4:15 - 4:30 pm | Steve MARGULIS: |
 | 4:30 - 4:45 pm | Sarah KAPNICK: |
