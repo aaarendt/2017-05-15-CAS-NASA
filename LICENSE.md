@@ -34,7 +34,8 @@ permalink: /license/
 |------------:|:-------------|
 | 9:00 - 9:45 am | Welcome and introductions |
 | 9:45 - 10:00 am | YAO Tandong: "Abnormal warming over the Third Pole and its environmental consequences" |
-| 10:00 - 10:15 am | [test](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHI_Jiancheng.pdf)
+| 10:15 - 10:30 am | Summer Rupper: [High Mountain Asia Glacier and Climate Change in High Mountain Asia over the Modern Era](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RUPPER_Summer.pdf))
+| 10:15 - 10:30 am | SHI Jiancheng: [Understanding snow/glacier change and its causality in the high mountain Asia region](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHI_Jiancheng.pdf)
 | 10:45 - 11:00 am | coffee break |
 | 11:00 am - 12:00 pm | 4 x 15 minute PI summaries |
 | 12:00 - 1:00 pm | lunch |
