@@ -32,27 +32,43 @@ permalink: /license/
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 - 9:45 am | Welcome and introductions |
+| 9:00 - 9:10 am | Welcome from Prof. GUO Huadong |
+| 9:10 - 9:20 am | Welcome from Dr. Michael Freilich |
+| 9:20 - 9:25 am | Welcome from Prof. LI Zhen |
+| 9:25 - 9:30 am | Welcome from Dr. Anthony Arendt |
+| 9:30 - 9:40 am | Logistics information from Yu-Chan Chao |
 | 9:45 - 10:00 am | YAO Tandong: "Abnormal warming over the Third Pole and its environmental consequences" |
-| 10:15 - 10:30 am | Summer RUPPER: ["High Mountain Asia Glacier and Climate Change in High Mountain Asia over the Modern Era"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RUPPER_Summer.pdf) |
+| 10:00 - 10:15 am | Summer RUPPER: ["High Mountain Asia Glacier and Climate Change in High Mountain Asia over the Modern Era"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RUPPER_Summer.pdf) |
 | 10:15 - 10:30 am | SHI Jiancheng: ["Understanding snow/glacier change and its causality in the high mountain Asia region"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHI_Jiancheng.pdf) |
 | 10:30 - 10:45 am | Si-Chee TSAY: ["Radiation, Aerosol Joint Observation-Modeling Exploration over Glaciers in Himalayan Asia (RAJO-MEGHA)"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/TSAY_SiChee.pdf) |
 | 10:45 - 11:00 am | coffee break |
 | 11:00 - 11:15 am | Dalia KIRSCHBAUM: ["Multi-sensor impact analysis of cascading hazards and transportation corridors in Nepal"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KIRSCHBAUM_Dalia.pdf) |
 | 11:15 - 11:30 am | ZHOU Gongdan: "Dynamics and theoretical analysis of granular mass flows with high mobility" |
-| 11:30 - 11:45 am | Kyle McDonald: |
+| 11:30 - 11:45 am | Kyle MCDONALD: |
 | 11:45 am - 12:00 pm | JIA Gensuo: ["Recent changes in HMA downstream ecosystem and surface water"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_Gensuo.pdf) |
 | 12:00 - 1:00 pm | lunch |
-| 1:00 - 1:15 pm |  |
-| 1:00 pm - 3:00 pm | 8 x 15 minute PI summaries |
+| 1:00 - 1:15 pm | JIA Li: ["Glacier changes and energy and water balance of High Mountain Asia from satallite observation"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_li.pdf) |
+| 1:15 - 1:30 pm | Thomas PAINTER: |
+| 1:30 - 1:45 pm | WANG Ninglian: ["Understanding the spatial pattern of the glacier changes in the Tibetan Plateau"] |
+| 1:45 - 2:00 pm | Batuhan OSMANOGLU: |
+| 2:00 - 2:15 pm | LI Xin: ["Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin"]()|
+| 2:15 - 2:30 pm | David SHEAN: | 
+| 2:30 - 2:45 pm | SU Fengge: ["Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau—uncertainties related to the precipitation input"] |
+| 2:45 - 3:00 pm | Sujay KUMAR: |
 | 3:00 pm - 3:15 pm | coffee break |
-| 3:15 pm - 5:15 pm | 8 x 15 minute PI summaries | 
+| 3:15 - 3:30 pm | ZHANG Peng: ["Fengyun Meteorological Satellites and their Observations to the High Mountain Asia"] |
+| 3:30 - 3:45 pm | Isabella VELICOGNA: |
+| 3:45 - 4:00 pm | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"]((https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QUI_Yubao.pdf) |
+| 4:00 - 4:15 pm | Jeff KARGEL: |
+| 4:15 - 4:30 pm | Steve MARGULIS: |
+| 4:30 - 4:45 pm | Sarah KAPNICK: |
+| 4:45 - 5:00 pm | Paul HOUSER: |
+| 5:00 - 5:15 pm | Bruce RAUP: |
 | 5:15 pm - 5:30 pm | summary and closing |
 
 ## Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
 <br><br><br>
  
-
 # Day 3: Wednesday May 17
 ## Breakout Discussions 
 
