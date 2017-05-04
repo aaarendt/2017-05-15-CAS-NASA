@@ -34,11 +34,16 @@ permalink: /license/
 |------------:|:-------------|
 | 9:00 - 9:45 am | Welcome and introductions |
 | 9:45 - 10:00 am | YAO Tandong: "Abnormal warming over the Third Pole and its environmental consequences" |
-| 10:15 - 10:30 am | Summer Rupper: [High Mountain Asia Glacier and Climate Change in High Mountain Asia over the Modern Era](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RUPPER_Summer.pdf))
-| 10:15 - 10:30 am | SHI Jiancheng: [Understanding snow/glacier change and its causality in the high mountain Asia region](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHI_Jiancheng.pdf)
+| 10:15 - 10:30 am | Summer RUPPER: ["High Mountain Asia Glacier and Climate Change in High Mountain Asia over the Modern Era"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RUPPER_Summer.pdf) |
+| 10:15 - 10:30 am | SHI Jiancheng: ["Understanding snow/glacier change and its causality in the high mountain Asia region"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHI_Jiancheng.pdf) |
+| 10:30 - 10:45 am | Si-Chee TSAY: ["Radiation, Aerosol Joint Observation-Modeling Exploration over Glaciers in Himalayan Asia (RAJO-MEGHA)"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/TSAY_SiChee.pdf) |
 | 10:45 - 11:00 am | coffee break |
-| 11:00 am - 12:00 pm | 4 x 15 minute PI summaries |
+| 11:00 - 11:15 am | Dalia KIRSCHBAUM: ["Multi-sensor impact analysis of cascading hazards and transportation corridors in Nepal"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KIRSCHBAUM_Dalia.pdf) |
+| 11:15 - 11:30 am | ZHOU Gongdan: "Dynamics and theoretical analysis of granular mass flows with high mobility" |
+| 11:30 - 11:45 am | Kyle McDonald: |
+| 11:45 am - 12:00 pm | JIA Gensuo: ["Recent changes in HMA downstream ecosystem and surface water"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_Gensuo.pdf) |
 | 12:00 - 1:00 pm | lunch |
+| 1:00 - 1:15 pm |  |
 | 1:00 pm - 3:00 pm | 8 x 15 minute PI summaries |
 | 3:00 pm - 3:15 pm | coffee break |
 | 3:15 pm - 5:15 pm | 8 x 15 minute PI summaries | 
