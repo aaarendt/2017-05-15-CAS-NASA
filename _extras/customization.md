@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Lightning Talks
+title: Presentation abstracts
 permalink: /customization/
 ---
