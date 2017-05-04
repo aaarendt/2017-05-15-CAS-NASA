@@ -33,7 +33,7 @@ permalink: /license/
 | Time | Topic / Activity |
 |------------:|:-------------|
 | 9:00 - 9:45 am | Welcome and introductions |
-| 9:45 - 10:45 am | 4 x 15 minute PI summaries |
+| 9:45 - 10:00 am | YAO Tandong: "Abnormal warming over the Third Pole and its environmental consequences" |
 | 10:45 - 11:00 am | coffee break |
 | 11:00 am - 12:00 pm | 4 x 15 minute PI summaries |
 | 12:00 - 1:00 pm | lunch |
