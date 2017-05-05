@@ -64,7 +64,7 @@ permalink: /license/
 | 4:30 - 4:45 pm | Bruce Raup: |
 | 4:45 - 5:00 pm | Paul Houser: |
 | 5:00 - 5:15 pm | Steve Margulis: |
-| 5:15 - 5:30 pm | Sarah Kapnick: |
+| 5:15 - 5:30 pm | Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf) |
 | 5:30 pm - 5:45 pm | summary and closing |
 
 ## Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
