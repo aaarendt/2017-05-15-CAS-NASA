@@ -61,7 +61,7 @@ permalink: /license/
 | 3:45 - 4:00 pm | ZHANG Peng: "Fengyun Meteorological Satellites and their Observations to the High Mountain Asia" |
 | 4:00 - 4:15 pm | Jeff Kargel: |
 | 4:15 - 4:30 pm | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QUI_Yubao.pdf) |
-| 4:30 - 4:45 pm | Bruce Raup: |
+| 4:30 - 4:45 pm | Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md) |
 | 4:45 - 5:00 pm | Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf) |
 | 5:00 - 5:15 pm | Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf) |
 | 5:15 - 5:30 pm | Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf) |
