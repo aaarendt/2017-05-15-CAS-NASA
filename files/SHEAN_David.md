@@ -1,4 +1,4 @@
-## Title:  High resolution Digital Elevation Models for High Mountain Asia derived from commerical stereo image pairs 
+## Title: High resolution Digital Elevation Models for High Mountain Asia derived from commerical stereo image pairs 
 
 ## Presenters: David Shean
 
