@@ -52,10 +52,12 @@ permalink: /license/
 | 1:30 - 1:45 pm | WANG Ninglian: "Understanding the spatial pattern of the glacier changes in the Tibetan Plateau" |
 | 1:45 - 2:00 pm | Batuhan Osmanoglu: |
 | 2:00 - 2:15 pm | LI Xin: "Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin" |
-| 2:15 - 2:30 pm | David Shean: | 
+| 2:15 - 2:30 pm | David Shean: ["High resolution Digital Elevation Models for High Mountain Asia derived from commerical stereo image pairs"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHEAN_David.md) | 
 | 2:30 - 2:45 pm | SU Fengge: "Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau - uncertainties related to the precipitation input" |
 | 2:45 - 3:00 pm | Sujay Kumar: |
+| | |
 | 3:00 pm - 3:15 pm | coffee break |
+| | |
 | 3:15 - 3:30 pm | ZHANG Yili: ["Ecological effects of ice and snow change in High Mountain Asia"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHANG_Yili.pdf) |
 | 3:30 - 3:45 pm |  Isabella Velicogna: |
 | 3:45 - 4:00 pm | ZHANG Peng: "Fengyun Meteorological Satellites and their Observations to the High Mountain Asia" |
