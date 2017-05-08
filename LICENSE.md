@@ -6,7 +6,7 @@ permalink: /license/
 
 # Schedule overview
 
-<img width="512" src="https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HiMAT_schedule.png"/>
+<img width="512" src="../files/HiMAT_schedule.png"/>
 
 # Day 1: Monday May 15
 ## NASA HiMAT meeting
