@@ -54,7 +54,7 @@ permalink: /license/
 | 1:00 - 1:15 pm | JIA Li: ["Glacier changes and energy and water balance of High Mountain Asia from satallite observation"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_li.pdf) |
 | 1:15 - 1:30 pm | Thomas Painter: |
 | 1:30 - 1:45 pm | WANG Ninglian: "Understanding the spatial pattern of the glacier changes in the Tibetan Plateau" |
-| 1:45 - 2:00 pm | Batuhan Osmanoglu: |
+| 1:45 - 2:00 pm | Batuhan Osmanoglu: ["High Mountain Asia and Beyond: Regional Changes in Climate, Glaciers and Water Resources"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/OSMANOGLU_Batu.pdf) |
 | 2:00 - 2:15 pm | LI Xin: "Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin" |
 | 2:15 - 2:30 pm | David Shean: ["High resolution Digital Elevation Models for High Mountain Asia derived from commerical stereo image pairs"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/SHEAN_David.md) | 
 | 2:30 - 2:45 pm | SU Fengge: "Hydrologic modeling for the glacier and snow melt fed basins in the Tibetan Plateau - uncertainties related to the precipitation input" |
