@@ -26,7 +26,7 @@ permalink: /license/
 | 4:00 pm - 4:15 pm | summary and closing |
 
 ## Dinner
-### CAS/NASA executive planning group: 5:00-9:00 PM dinner at Westmark Baranof Hotel
+### CAS/NASA executive planning group: 6:00-9:00 PM dinner at [SALT restaurant](http://www.saltalaska.com/)
 
 ### No scheduled dinner for remainder of the team; we will provide a list of possible restaurants 
 <br><br><br>
