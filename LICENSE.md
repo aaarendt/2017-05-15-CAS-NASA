@@ -33,7 +33,7 @@ permalink: /license/
 | 1:10 - 1:20 pm | Steve Margulis | 
 | 1:20 - 3:15 pm | Open working group |
 | 3:15 pm - 3:30 pm | coffee | 
-| 3:30 pm - 4:00 pm | team planning : what are primary objectives over the next 6 months, what is working well with HiMAT and what needs to be adjusted |
+| 3:30 pm - 4:00 pm | Team Planning |
 | 4:00 pm - 4:15 pm | summary and closing |
 
 ## Dinner
