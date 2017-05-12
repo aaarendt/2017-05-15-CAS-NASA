@@ -63,7 +63,7 @@ permalink: /license/
 |  11:30 - 11:45 am  |  Kyle McDonald:  | 
 |  11:45 am - 12:00 pm  |  JIA Gensuo: ["Recent changes in HMA downstream ecosystem and surface water"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_Gensuo.pdf)  | 
 |  12:00 - 1:00 pm  |  lunch  | 
-|  1:00 - 1:15 pm  |  Thomas Painter: ["Radiative forcing by dust and black carbon in snow of High Mountain Asia: Implications for glaciers and water resources"] ((https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/PAINTER_Thomas.md) | 
+|  1:00 - 1:15 pm  |  Thomas Painter: ["Radiative forcing by dust and black carbon in snow of High Mountain Asia: Implications for glaciers and water resources"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/PAINTER_Thomas.md) | 
 |  1:15 - 1:30 pm  |  WANG Ninglian: ["Understanding the spatial pattern of the glacier changes in the Tibetan Plateau"] | 
 |  1:30 - 1:45 pm  |  Batuhan Osmanoglu: ["High Mountain Asia and Beyond: Regional Changes in Climate, Glaciers and Water Resources"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/OSMANOGLU_Batu.pdf)  | 
 |  1:45 - 2:00 pm  |  LI Xin: ["Monitoring and modeling of cold region hydrological process in a Third Pole high mountain river basin"]  | 
@@ -74,7 +74,7 @@ permalink: /license/
 |  3:00 pm - 3:15 pm  |  coffee break  | 
 |  3:15 - 3:30 pm  |  ZHANG Yili: ["Ecological effects of ice and snow change in High Mountain Asia"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHANG_Yili.pdf)  | 
 |  3:30 - 3:45 pm  |   Isabella Velicogna: ["Contribution of High Mountain Asia glacier changes to river basin hydrology using GRACE gravity and other data"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/VELICOGNA_Isabella.pdf) | 
-|  3:45 - 4:00 pm  | ZHOU Gongdan: [“Dynamics and theoretical analysis of granular mass flows with high mobility”](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHOUR_Gongdan.pdf) | 
+|  3:45 - 4:00 pm  | ZHOU Gongdan: ["Dynamics and theoretical analysis of granular mass flows with high mobility"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHOUR_Gongdan.pdf) | 
 |  4:00 - 4:15 pm  |  Jeff Kargel:  | 
 |  4:15 - 4:30 pm  |  QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QIU_Yubao.md)  | 
 |  4:30 - 4:45 pm  |  Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md)  | 
