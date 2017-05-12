@@ -14,7 +14,8 @@ permalink: /license/
 | Time | Topic / Activity |
 |------------:|:-------------|
 | 9:00 - 9:30 am | Welcome and overview, Dr. Michael Freilich |
-| 9:30 - 9:45 am | Welcome and logistics, Anthony / Yu-Chan |
+| 9:30 - 9:40 am | Welcome and overview, Thomas Wagner |
+| 9:40 - 9:45 am | Welcome and logistics, Anthony |
 | RESEARCH UPDATES | | 
 | 9:45 - 9:55 am | Batu Osmanoglu |
 | 9:55 - 10:05 am | Paul Houser |
@@ -61,7 +62,7 @@ permalink: /license/
 |  11:00 - 11:15 am  |  Dalia Kirschbaum: ["Multi-sensor impact analysis of cascading hazards and transportation corridors in Nepal"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KIRSCHBAUM_Dalia.pdf)  | 
 |  11:15 - 11:30 am  | CHEN Fang: ["Monitoring Glacial Lakes in Tibet Plateau from 2008-2016"] | 
 |  11:30 - 11:45 am  |  Kyle McDonald:  | 
-|  11:45 am - 12:00 pm  |  JIA Gensuo: ["Recent changes in HMA downstream ecosystem and surface water"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_Gensuo.pdf)  | 
+|  11:45 - 12:00 pm  |  JIA Gensuo: ["Recent changes in HMA downstream ecosystem and surface water"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/JIA_Gensuo.pdf)  | 
 |  12:00 - 1:00 pm  |  lunch  | 
 |  1:00 - 1:15 pm  |  Thomas Painter: ["Radiative forcing by dust and black carbon in snow of High Mountain Asia: Implications for glaciers and water resources"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/PAINTER_Thomas.md) | 
 |  1:15 - 1:30 pm  |  WANG Ninglian: ["Understanding the spatial pattern of the glacier changes in the Tibetan Plateau"] | 
