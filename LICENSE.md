@@ -13,7 +13,8 @@ permalink: /license/
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 - 9:45 am | Welcome and reconnecting |
+| 9:00 - 9:30 am | Welcome and overview, Dr. Michael Freilich |
+| 9:30 - 9:45 am | Welcome and logistics, Anthony / Yu-Chan |
 | RESEARCH UPDATES | | 
 | 9:45 - 9:55 am | Batu Osmanoglu |
 | 9:55 - 10:05 am | Paul Houser |
@@ -75,7 +76,7 @@ permalink: /license/
 | 3:30 - 3:45 pm |  Isabella Velicogna: |
 | 3:45 - 4:00 pm | ZHANG Peng: "Fengyun Meteorological Satellites and their Observations to the High Mountain Asia" |
 | 4:00 - 4:15 pm | Jeff Kargel: |
-| 4:15 - 4:30 pm | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QUI_Yubao.pdf) |
+| 4:15 - 4:30 pm | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QUI_Yubao.md) |
 | 4:30 - 4:45 pm | Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md) |
 | 4:45 - 5:00 pm | Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf) |
 | 5:00 - 5:15 pm | Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf) |
@@ -97,8 +98,8 @@ permalink: /license/
 | 12:00 - 1:00 pm | lunch |
 | 1:00 pm - 3:00 pm | open discussion |
 | 3:00 pm - 3:15 pm | coffee break |
-| 3:15 pm - 5:15 pm | open discussion | 
-| 5:15 pm - 5:30 pm | summary and closing |
+| 3:15 pm - 4:30 pm | open discussion | 
+| 4:30 pm - 5:30 pm | [Roman Motyka](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MOTYKA_Roman.md) |
 
 #### Breakout group Session #1:
 
