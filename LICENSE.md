@@ -79,10 +79,7 @@ permalink: /license/
 |  4:00 - 4:15 pm  |  Jeff Kargel:  | 
 |  4:15 - 4:30 pm  |  QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QIU_Yubao.md)  | 
 |  4:30 - 4:45 pm  |  Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md)  | 
-|  4:45 - 5:00 pm  |  Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf)  | 
-|  5:00 - 5:15 pm  |  Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf)  | 
-|  5:15 - 5:30 pm  |  Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf)  | 
-|  5:30 pm - 5:45 pm  |  summary and closing  | 
+|  4:45 pm - 5:00 pm  |  summary and closing  | 
 
 ## Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
 <br><br><br>
@@ -93,11 +90,14 @@ permalink: /license/
 | Time | Topic / Activity |
 |------------:|:-------------|
 | 9:00 am - 9:15 am | Welcome and introductions |
-| 9:15 am - 10:45 am | breakout group session #1 |
+|  9:15 - 9:30 am  |  Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf)  | 
+|  9:30 - 9:45 am  |  Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf)  | 
+|  9:45 - 10:00 am  |  Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf)  | 
+| 10:00 - 10:15 am | Matts Erikkson: [TBD]: |
 | 10:45 am - 11:00 am | coffee break | 
-| 11:00 am - 12:00 pm | breakout group session #2 |
+| 11:00 am - 12:00 pm | breakout group Session #1  |
 | 12:00 - 1:00 pm | lunch |
-| 1:00 pm - 3:00 pm | open discussion |
+| 1:00 pm - 3:00 pm | breakout group Session #2 |
 | 3:00 pm - 3:15 pm | coffee break |
 | 3:15 pm - 4:30 pm | open discussion | 
 | 4:30 pm - 5:30 pm | [Roman Motyka](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MOTYKA_Roman.md) |
