@@ -64,15 +64,14 @@ permalink: /conduct/
 | 14 | [Dr. LIU Jiuliang](mailto:email@email.cn) | Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
 | 15 | [Prof. QIU Yubao](mailto:email@email.cn) | Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
 | 16 | [Dr. RUAN Zhixing](mailto:email@email.cn) | Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
-| 17 | [Prof. SHI Jiancheng](mailto:email@email.cn) | Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
-| 18 | [Prof. SU Fengge](mailto:email@email.cn) | Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
-| 19 | [Mr. SUN Hui](mailto:email@email.cn) | Bureau of International Cooperation, Chinese Academy of Sciences (CAS)  |05-15-2017 |05-20-2017 |
-| 20 | [Prof. WANG Ninglian](mailto:email@email.cn) | Northwest University |05-15-2017 |05-20-2017 |
-| 21 | [Dr. WANG Mo](mailto:email@email.cn) | Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
-| 22 | [Prof. YAO Tandong](mailto:email@email.cn) | Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
-| 23 | [Prof. ZHANG Yongqing](mailto:email@email.cn) | Bureau of Frontier Sciences and Education, Chinese Academy of Sciences |05-15-2017 |05-20-2017 |
-| 24 | [Mr. ZHANG Qingquan](mailto:email@email.cn) | Bureau of International Cooperation, Chinese Academy of Sciences (CAS)  |05-15-2017 |05-20-2017 |
-| 25 | [Prof. ZHANG Yili](mailto:email@email.cn) | Institute of Geographic and Natural Resources Research, Chinese Academy of Sciences |05-15-2017 |05-20-2017 |
-| 26 | [Prof. ZHANG Peng](mailto:email@email.cn) | National Satellite Meteorological Center, China Meteorological Administration |05-15-2017 |05-20-2017 |
-| 27 | [Prof. ZHANG Li](mailto:email@email.cn) | Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
-| 28 | [Prof. ZHOU Gongdan](mailto:email@email.cn) | Institute of Mountain Hazards and Environment (IMHE), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
+| 17 | [Prof. SU Fengge](mailto:email@email.cn) | Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
+| 18 | [Mr. SUN Hui](mailto:email@email.cn) | Bureau of International Cooperation, Chinese Academy of Sciences (CAS)  |05-15-2017 |05-20-2017 |
+| 19 | [Prof. WANG Ninglian](mailto:email@email.cn) | Northwest University |05-15-2017 |05-20-2017 |
+| 20 | [Dr. WANG Mo](mailto:email@email.cn) | Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
+| 21 | [Prof. YAO Tandong](mailto:email@email.cn) | Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
+| 22 | [Prof. ZHANG Yongqing](mailto:email@email.cn) | Bureau of Frontier Sciences and Education, Chinese Academy of Sciences |05-15-2017 |05-20-2017 |
+| 23 | [Mr. ZHANG Qingquan](mailto:email@email.cn) | Bureau of International Cooperation, Chinese Academy of Sciences (CAS)  |05-15-2017 |05-20-2017 |
+| 24 | [Prof. ZHANG Yili](mailto:email@email.cn) | Institute of Geographic and Natural Resources Research, Chinese Academy of Sciences |05-15-2017 |05-20-2017 |
+| 25 | [Prof. ZHANG Peng](mailto:email@email.cn) | National Satellite Meteorological Center, China Meteorological Administration |05-15-2017 |05-20-2017 |
+| 26 | [Prof. ZHANG Li](mailto:email@email.cn) | Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
+| 27 | [Prof. ZHOU Gongdan](mailto:email@email.cn) | Institute of Mountain Hazards and Environment (IMHE), Chinese Academy of Sciences (CAS) |05-15-2017 |05-20-2017 |
