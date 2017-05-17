@@ -76,7 +76,7 @@ permalink: /license/
 |  3:15 - 3:30 pm  |  ZHANG Yili: ["Ecological effects of ice and snow change in High Mountain Asia"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHANG_Yili.pdf)  | 
 |  3:30 - 3:45 pm  |   Isabella Velicogna: ["Contribution of High Mountain Asia glacier changes to river basin hydrology using GRACE gravity and other data"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/VELICOGNA_Isabella.pdf) | 
 |  3:45 - 4:00 pm  | ZHOU Gongdan: ["Dynamics and theoretical analysis of granular mass flows with high mobility"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHOU_Gongdan.pdf) | 
-|  4:00 - 4:15 pm  |  Jeff Kargel:  | 
+|  4:00 - 4:15 pm  |  Jeff Kargel: ["Interlinked Glacier Dynamics, Lakes, Mountain Hazards, and Critical Vulnerabilities in the Himalaya"] | 
 |  4:15 - 4:30 pm  |  QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QIU_Yubao.md)  | 
 |  4:30 - 4:45 pm  |  Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md)  | 
 |  4:45 pm - 5:00 pm  |  summary and closing  | 
@@ -89,19 +89,26 @@ permalink: /license/
 
 | Time | Topic / Activity |
 |------------:|:-------------|
-| 9:00 am - 9:15 am | Welcome and introductions |
-|  9:15 - 9:30 am  |  Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf)  | 
-|  9:30 - 9:45 am  |  Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf)  | 
-|  9:45 - 10:00 am  |  Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf)  | 
-| 10:00 - 10:15 am | Matts Erikkson: [TBD]: |
+| 9:00 - 9:15 am | Isabella Velicogna: ["Contribution of High Mountain Asia glacier changes to river basin hydrology using GRACE gravity and other data"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/VELICOGNA_Isabella.pdf) | 
+| 9:15 - 9:30 am  | ZHOU Gongdan: ["Dynamics and theoretical analysis of granular mass flows with high mobility"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHOU_Gongdan.pdf) | 
+| 9:30 - 9:45 am |  Jeff Kargel: ["Interlinked Glacier Dynamics, Lakes, Mountain Hazards, and Critical Vulnerabilities in the Himalaya"] | 
+| 9:45 - 10:00 am  |  Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf)  | 
+| 10:00 - 10:15 am |  Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf)  | 
+| 10:15 - 10:30 am |  Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf)  | 
+| 10:30 - 10:45 am  | Matts Erikkson: [TBD]: |
 | 10:45 am - 11:00 am | coffee break | 
-| 11:00 am - 12:00 pm | breakout group Session #1  |
+| 11:00 - 11:15 am | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QIU_Yubao.md)   | 
+| 11:15 - 11:30 am | Anthony Arendt: "GMELT Overview"  | 
+|11:30 - 11:45 am  | / Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md) |
+| 11:30 - 12:00 pm  | Data Discussion | 
 | 12:00 - 1:00 pm | lunch |
-| 1:00 pm - 3:00 pm | breakout group Session #2 |
+| 1:00 pm - 1:30 pm | Breakout: Identifying data needs and availability |
+| 1:30 pm - 2:00 pm | Discussing mechanisms for data sharing |
 | 3:00 pm - 3:15 pm | coffee break |
 | 3:15 pm - 4:30 pm | open discussion | 
 | 4:30 pm - 5:30 pm | [Roman Motyka](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MOTYKA_Roman.md) |
 
+<!--
 #### Breakout group Session #1:
 
 1. *Process Studies Group* focusing on glacier and snow changes, evapotranspiration, precipitation, radiation, and lake changes.
@@ -119,6 +126,7 @@ permalink: /license/
 - building a map and atlas of available datasets in the region
 - continued sharing of scientific ideas and results
 - continued discussion of technologies for building GMELT (web services, cloud computing) for public hosting of relevant datasets
+-->
 
 ## Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
 <br><br><br>
