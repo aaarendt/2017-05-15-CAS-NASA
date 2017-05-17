@@ -74,12 +74,6 @@ permalink: /license/
 |  2:45 - 3:00 pm  | LI Zhen: ["Airborne remote sensing observations for parameters of glaciers and snow in HMA"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/LI_Zhen.pdf) | 
 |  3:00 pm - 3:15 pm  |  coffee break  | 
 |  3:15 - 3:30 pm  |  ZHANG Yili: ["Ecological effects of ice and snow change in High Mountain Asia"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHANG_Yili.pdf)  | 
-|  3:30 - 3:45 pm  |   Isabella Velicogna: ["Contribution of High Mountain Asia glacier changes to river basin hydrology using GRACE gravity and other data"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/VELICOGNA_Isabella.pdf) | 
-|  3:45 - 4:00 pm  | ZHOU Gongdan: ["Dynamics and theoretical analysis of granular mass flows with high mobility"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ZHOU_Gongdan.pdf) | 
-|  4:00 - 4:15 pm  |  Jeff Kargel: ["Interlinked Glacier Dynamics, Lakes, Mountain Hazards, and Critical Vulnerabilities in the Himalaya"] | 
-|  4:15 - 4:30 pm  |  QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QIU_Yubao.md)  | 
-|  4:30 - 4:45 pm  |  Bruce Raup / Steve Tanner: ["Web tool for sharing field measurements, and requirements for long-term data archive"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/RAUP_Bruce.md)  | 
-|  4:45 pm - 5:00 pm  |  summary and closing  | 
 
 ## Dinner: 5:00-9:00 PM, Banquet dinner, buffet style, Westmark Baranof Hotel
 <br><br><br>
