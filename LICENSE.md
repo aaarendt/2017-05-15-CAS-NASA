@@ -103,12 +103,7 @@ permalink: /license/
 | 4:30 pm - 5:30 pm | [Roman Motyka](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MOTYKA_Roman.md) |
 
 <!--
-#### Breakout group Session #1:
 
-1. *Process Studies Group* focusing on glacier and snow changes, evapotranspiration, precipitation, radiation, and lake changes.
-2. *Modeling and Analyzing Group* focusing on hydrological models, glacier models, and related large-scale analysis.
-3. *Downstream Impacts Group* focusing on ecological impacts, environment changes, hazards and economic impacts.
- 
 #### Breakout group Session #2:
 
 1. *Data Products Group* discussion of data needs, products to be produced by various teams, and access to existing data.
@@ -132,11 +127,17 @@ permalink: /license/
 |------------:|:-------------|
 | 9:00 am - 12:00 pm | [Mendenhall Visitor Center](https://www.fs.usda.gov/detail/tongass/about-forest/offices/?cid=stelprdb5400800) field excursion |
 | 12:00 - 1:00 pm | lunch |
-| 1:00 pm - 3:00 pm | synthesis and reporting to the group |
+| 1:00 pm - 3:00 pm | breakout groups |
 | 3:00 pm - 3:15 pm | coffee break |
-| 3:15 pm - 5:15 pm | planning for next steps | 
+| 3:15 pm - 5:15 pm | systhesis and planning for next steps | 
 | 5:15 pm - 5:30 pm | summary and closing |
 
+#### Breakout group Session:
+
+1. *Process Studies Group* focusing on glacier and snow changes, evapotranspiration, precipitation, radiation, and lake changes.
+2. *Modeling and Analyzing Group* focusing on hydrological models, glacier models, and related large-scale analysis.
+3. *Downstream Impacts Group* focusing on ecological impacts, environment changes, hazards and economic impacts.
+ 
 ## Dinner: T.K.'s Lounge, The Prospector Hotel, Buffet Style
 <br><br><br>
 
