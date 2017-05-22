@@ -89,7 +89,7 @@ permalink: /license/
 | 9:45 - 10:00 am  |  Paul Houser: ["HMA-LDAS: Hyper-Resolution High Mountain Asia - Land Data Assimilation System"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/HOUSER_Paul.pdf)  | 
 | 10:00 - 10:15 am |  Steve Margulis: ["Understanding and forecasting changes in High Mountain Asia snow hydrology via a novel Bayesian reanalysis and modeling approach"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/MARGULIS_Steve.pdf)  | 
 | 10:15 - 10:30 am |  Sarah Kapnick: ["Cryosphere-Aerosol Interactions in a High-Resolution Global Climate Model"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/KAPNICK_Sarah.pdf)  | 
-| 10:30 - 10:45 am  | Matts Erikkson: [TBD]: |
+| 10:30 - 10:45 am  | Mats Eriksson: ["ICIMOD: A Regional Mountain Learning Centre"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/ERIKKSON_Mats.pdf) |
 | 10:45 am - 11:00 am | coffee break | 
 | 11:00 - 11:15 am | QIU Yubao: ["Community Portal of Observation and Data for High Mountain Asia Exercise in CAS"](https://github.com/aaarendt/2017-05-15-CAS-NASA/blob/gh-pages/files/QIU_Yubao.md)   | 
 | 11:15 - 11:30 am | Anthony Arendt: "GMELT Overview"  | 
